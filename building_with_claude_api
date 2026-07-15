@@ -1,0 +1,124 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyPcGbnCTMJT0fJ7iCr7XNX+",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/igMoreira/claude-cert-notebooks/blob/main/building_with_claude_api\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "# install dependencies\n",
+        "!pip install anthropic"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "5btOoUBvHYLe",
+        "outputId": "a51936fc-b3be-4d11-bf37-46429032c593"
+      },
+      "execution_count": 6,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Requirement already satisfied: anthropic in /usr/local/lib/python3.12/dist-packages (0.116.0)\n",
+            "Requirement already satisfied: anyio<5,>=3.5.0 in /usr/local/lib/python3.12/dist-packages (from anthropic) (4.14.0)\n",
+            "Requirement already satisfied: distro<2,>=1.7.0 in /usr/local/lib/python3.12/dist-packages (from anthropic) (1.9.0)\n",
+            "Requirement already satisfied: docstring-parser<1,>=0.15 in /usr/local/lib/python3.12/dist-packages (from anthropic) (0.18.0)\n",
+            "Requirement already satisfied: httpx<1,>=0.25.0 in /usr/local/lib/python3.12/dist-packages (from anthropic) (0.28.1)\n",
+            "Requirement already satisfied: jiter<1,>=0.4.0 in /usr/local/lib/python3.12/dist-packages (from anthropic) (0.15.0)\n",
+            "Requirement already satisfied: pydantic<3,>=1.9.0 in /usr/local/lib/python3.12/dist-packages (from anthropic) (2.13.4)\n",
+            "Requirement already satisfied: sniffio in /usr/local/lib/python3.12/dist-packages (from anthropic) (1.3.1)\n",
+            "Requirement already satisfied: typing-extensions<5,>=4.14 in /usr/local/lib/python3.12/dist-packages (from anthropic) (4.15.0)\n",
+            "Requirement already satisfied: idna>=2.8 in /usr/local/lib/python3.12/dist-packages (from anyio<5,>=3.5.0->anthropic) (3.18)\n",
+            "Requirement already satisfied: certifi in /usr/local/lib/python3.12/dist-packages (from httpx<1,>=0.25.0->anthropic) (2026.6.17)\n",
+            "Requirement already satisfied: httpcore==1.* in /usr/local/lib/python3.12/dist-packages (from httpx<1,>=0.25.0->anthropic) (1.0.9)\n",
+            "Requirement already satisfied: h11>=0.16 in /usr/local/lib/python3.12/dist-packages (from httpcore==1.*->httpx<1,>=0.25.0->anthropic) (0.16.0)\n",
+            "Requirement already satisfied: annotated-types>=0.6.0 in /usr/local/lib/python3.12/dist-packages (from pydantic<3,>=1.9.0->anthropic) (0.7.0)\n",
+            "Requirement already satisfied: pydantic-core==2.46.4 in /usr/local/lib/python3.12/dist-packages (from pydantic<3,>=1.9.0->anthropic) (2.46.4)\n",
+            "Requirement already satisfied: typing-inspection>=0.4.2 in /usr/local/lib/python3.12/dist-packages (from pydantic<3,>=1.9.0->anthropic) (0.4.2)\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "from google.colab import userdata\n",
+        "from anthropic import Anthropic\n",
+        "\n",
+        "API_KEY = userdata.get('API_KEY')\n",
+        "MODEL = \"claude-sonnet-4-0\"\n",
+        "MAX_TOKENS = 100"
+      ],
+      "metadata": {
+        "id": "6N830hauJtm9"
+      },
+      "execution_count": 9,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "client = Anthropic()"
+      ],
+      "metadata": {
+        "id": "N5x1JzLRJzRZ"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "response = client.messages.create(model=MODEL,\n",
+        "                       max_tokens=MAX_TOKENS,\n",
+        "                       messages= [\n",
+        "                           {\n",
+        "                               'role': 'User',\n",
+        "                               'content': 'What is quantum computing? Answer in one sentence.'\n",
+        "                            }])"
+      ],
+      "metadata": {
+        "id": "JaiwYH7nKRLg"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "response.content[0].text"
+      ],
+      "metadata": {
+        "id": "EYnLaZGNLQhN"
+      },
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
