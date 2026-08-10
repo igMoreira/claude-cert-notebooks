@@ -1,0 +1,70 @@
+[
+  {
+    "output": "{\"topics\": [\"drug discovery\", \"computational molecular docking\", \"experimental biochemistry\", \"machine learning algorithms\", \"protein-ligand binding affinities\", \"quantum chemistry\", \"electronic structure analysis\", \"high-throughput chromatography\", \"inhibitor synthesis\", \"SARS-CoV-2 main protease\", \"binding kinetics\", \"surface plasmon resonance spectroscopy\", \"artificial intelligence\", \"medicinal chemistry\", \"structural biology\", \"organic synthesis\", \"data science\"]}",
+    "test_case": {
+      "prompt_inputs": {
+        "content": "This study presents a novel approach to drug discovery by integrating computational molecular docking with experimental biochemistry. We employed machine learning algorithms to predict protein-ligand binding affinities, reducing screening time by 60%. Our methodology combines quantum chemistry calculations for electronic structure analysis with high-throughput chromatography to validate predicted compounds. We synthesized five novel inhibitor candidates targeting the SARS-CoV-2 main protease, analyzing their binding kinetics through surface plasmon resonance spectroscopy. The computational models achieved 92% accuracy when validated against experimental IC50 values. Our interdisciplinary framework demonstrates how artificial intelligence can accelerate traditional medicinal chemistry workflows, bridging structural biology, organic synthesis, and data science methodologies."
+      },
+      "solution_criteria": [
+        "Identifies topics from all three research domains: biology (protein-ligand interactions, drug discovery, enzyme inhibition), chemistry (molecular docking, quantum chemistry, organic synthesis), and computational methods (machine learning, algorithms, data validation)",
+        "Distinguishes between main topics and supporting technical details",
+        "Captures interdisciplinary aspects that span multiple fields"
+      ],
+      "task_description": "Extract the topics from a scholar paper text.",
+      "scenario": "Testing with an interdisciplinary paper abstract containing mixed topics from biology, chemistry, and computational methods to verify accurate identification of multiple distinct research areas"
+    },
+    "score": 8,
+    "reasoning": "The solution fully satisfies all mandatory requirements: it provides a valid JSON array containing only topic strings without extra commentary. It also meets the secondary criteria by identifying topics across all three domains (biology: drug discovery, protein-ligand interactions, SARS-CoV-2 protease; chemistry: molecular docking, quantum chemistry, organic synthesis; computational: machine learning, data science) and capturing interdisciplinary connections. However, the solution treats all extracted topics with equal weight rather than distinguishing between main topics and supporting technical details. While this is not a mandatory requirement violation, it represents a minor deficiency in addressing the secondary criteria about distinguishing topic hierarchy. The extraction is thorough and accurate, but could be more refined in its categorization."
+  },
+  {
+    "output": "[\n  \"adversarial perturbations\",\n  \"convolutional neural networks (CNNs)\",\n  \"adversarial training\",\n  \"FGSM attacks\",\n  \"PGD attacks\",\n  \"ResNet-50 architecture\",\n  \"batch normalization\",\n  \"certified defenses\",\n  \"randomized smoothing\",\n  \"differential privacy\",\n  \"robustness guarantees\",\n  \"clean accuracy\",\n  \"robust accuracy\",\n  \"L\u221e perturbations\",\n  \"certified radius bounds\",\n  \"TRADES\",\n  \"MART\",\n  \"CIFAR-10\",\n  \"ImageNet\",\n  \"model interpretability\",\n  \"attention mechanisms\",\n  \"Grad-CAM\",\n  \"gradient-based attribution methods\",\n  \"knowledge distillation\",\n  \"generalization\",\n  \"computational efficiency\",\n  \"edge devices\"\n]",
+    "test_case": {
+      "prompt_inputs": {
+        "content": "This paper presents a novel approach to mitigating adversarial perturbations in convolutional neural networks (CNNs) through adversarial training with FGSM and PGD attacks. We employ ResNet-50 architecture with batch normalization layers and implement certified defenses using randomized smoothing techniques. Our methodology incorporates differential privacy (DP) mechanisms with \u03b5-\u03b4 bounds to quantify robustness guarantees. We evaluate performance metrics including clean accuracy, robust accuracy under L\u221e perturbations, and certified radius bounds. Comparative analysis with existing defense mechanisms such as TRADES and MART demonstrates superior performance on CIFAR-10 and ImageNet datasets. Additionally, we explore the trade-off between model interpretability and adversarial robustness using attention mechanisms and gradient-based attribution methods (Grad-CAM). Our findings suggest that incorporating knowledge distillation from robust teacher models significantly improves generalization capabilities while maintaining computational efficiency on edge devices."
+      },
+      "solution_criteria": [
+        "Identifies all major technical topics including adversarial training, defense mechanisms, privacy techniques, and model evaluation approaches",
+        "Correctly recognizes domain-specific acronyms and jargon (FGSM, PGD, TRADES, MART, DP, L\u221e, Grad-CAM) as topic indicators",
+        "Distinguishes between architectural components (ResNet-50, CNNs), techniques (randomized smoothing, knowledge distillation), and evaluation methods (certified radius bounds, clean/robust accuracy)"
+      ],
+      "task_description": "Extract the topics from a scholar paper text.",
+      "scenario": "Testing with a highly specialized technical paper using domain-specific jargon and acronyms to evaluate whether the prompt correctly identifies topics despite unfamiliar terminology"
+    },
+    "score": 9,
+    "reasoning": "The solution fully satisfies all mandatory requirements: it is a JSON array of strings containing only topics without extra comments or boilerplate. It also meets all secondary criteria by identifying major technical topics across adversarial training, defense mechanisms, privacy techniques, and evaluation approaches. The solution correctly recognizes domain-specific acronyms (FGSM, PGD, TRADES, MART, DP, L\u221e, Grad-CAM) and properly distinguishes between architectural components, techniques, and evaluation methods. The extraction is thorough and well-organized, with only minor redundancies that do not significantly detract from the overall quality."
+  },
+  {
+    "output": "[\n  \"Human representation in Renaissance art\",\n  \"Anatomical proportions\",\n  \"Linear perspective\",\n  \"Portrait as artistic vehicle\",\n  \"Identity and social status\",\n  \"Classical texts and intellectual inquiry\",\n  \"Virtue and beauty\",\n  \"Material and spiritual worlds\",\n  \"Patronage system\",\n  \"Florence and Rome\",\n  \"Merchant and clergy networks\",\n  \"Humanist scholars\",\n  \"Pigment production\",\n  \"Oil painting techniques\",\n  \"Luminosity and atmospheric perspective\",\n  \"Natural world depiction\"\n]",
+    "test_case": {
+      "prompt_inputs": {
+        "content": "The Renaissance witnessed a profound transformation in how artists conceived of human representation. Through the meticulous study of anatomical proportions and the principles of linear perspective, painters and sculptors sought to capture not merely the physical likeness of their subjects, but the psychological depth of individual character. This period saw the emergence of the portrait as a vehicle for exploring questions of identity and social status, while simultaneously, the revival of classical texts prompted intellectual inquiry into the nature of virtue, beauty, and the relationship between the material and spiritual worlds. The patronage system that flourished in Florence and Rome fundamentally shaped artistic production, creating networks of exchange between merchants, clergy, and humanist scholars. Simultaneously, technological innovations in pigment production and the refinement of oil painting techniques enabled artists to achieve unprecedented levels of luminosity and atmospheric perspective, influencing how subsequent generations perceived and depicted the natural world."
+      },
+      "solution_criteria": [
+        "Identifies implicit topics embedded within narrative prose without explicit keywords (e.g., artistic techniques, patronage systems, intellectual movements, technological innovation)",
+        "Extracts topics contextually derived from thematic discussions rather than explicitly labeled keywords",
+        "Recognizes interconnected topics across multiple domains (art history, technology, economics, philosophy)"
+      ],
+      "task_description": "Extract the topics from a scholar paper text.",
+      "scenario": "Testing with a humanities-focused paper containing implicit topics hidden within narrative prose rather than explicitly stated keywords to assess topic extraction from contextual language"
+    },
+    "score": 9,
+    "reasoning": "The solution fully satisfies all mandatory requirements: it is a JSON array of strings containing only topics without extra comments or boilerplate. It also meets the secondary criteria by identifying implicit topics embedded in narrative prose (anatomical proportions, linear perspective, oil painting techniques), recognizing interconnected topics across domains (patronage networks spanning economics and art history, technological innovation in pigment production), and extracting contextually-derived themes rather than relying on explicit keywords. The extraction is thorough and demonstrates strong comprehension of the source material's thematic structure. While there are minor opportunities to consolidate or refine some topic groupings, these do not constitute failures against the stated criteria."
+  },
+  {
+    "output": "[\n  \"machine learning\",\n  \"natural language processing\",\n  \"deep neural networks\",\n  \"artificial neural networks\",\n  \"text classification\",\n  \"transformer architectures\",\n  \"neural language models\",\n  \"semantic analysis\",\n  \"supervised learning\",\n  \"deep learning\",\n  \"transfer learning\",\n  \"pre-trained language models\",\n  \"model generalization\",\n  \"natural language understanding\",\n  \"text processing\"\n]",
+    "test_case": {
+      "prompt_inputs": {
+        "content": "This paper investigates machine learning approaches for natural language processing tasks. We employ deep neural networks and artificial neural networks to improve text classification performance. Our methodology utilizes transformer architectures and neural language models for semantic analysis. We compare supervised learning and machine learning techniques across multiple datasets. The study demonstrates that deep learning methods, particularly neural network-based approaches, outperform traditional NLP methods. We also explore transfer learning and pre-trained language models to enhance model generalization. Results show that neural architectures consistently achieve state-of-the-art performance in natural language understanding and text processing benchmarks."
+      },
+      "solution_criteria": [
+        "Identifies all distinct topics present in the abstract",
+        "Deduplicates or groups semantically overlapping concepts (e.g., 'machine learning', 'deep learning', 'neural networks', 'neural network-based approaches' as related variants)",
+        "Presents topics in a clear, non-redundant format"
+      ],
+      "task_description": "Extract the topics from a scholar paper text.",
+      "scenario": "Testing with a paper abstract that has redundant or overlapping topic concepts to assess whether the prompt deduplicates related topics or lists them separately"
+    },
+    "score": 7,
+    "reasoning": "The solution successfully meets all mandatory requirements by providing a valid JSON array of clean topic strings with no extraneous content. It identifies all distinct topics present in the abstract comprehensively. However, it falls short on the secondary criterion of deduplicating or grouping semantically overlapping concepts. The solution lists multiple neural network variants and learning approaches as separate items rather than recognizing their semantic relationships. For example, 'deep neural networks', 'artificial neural networks', 'neural language models', and 'deep learning' are closely related and could be grouped or consolidated. Similarly, 'supervised learning' and 'transfer learning' represent related learning paradigms. While the current approach is valid and clear, it does not fully optimize for the deduplication criterion mentioned in the evaluation criteria."
+  }
+]

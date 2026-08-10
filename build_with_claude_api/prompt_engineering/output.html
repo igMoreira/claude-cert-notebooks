@@ -1,0 +1,243 @@
+
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Prompt Evaluation Report</title>
+        <style>
+            body {
+                font-family: Arial, sans-serif;
+                line-height: 1.6;
+                margin: 0;
+                padding: 20px;
+                color: #333;
+            }
+            .header {
+                background-color: #f0f0f0;
+                padding: 20px;
+                border-radius: 5px;
+                margin-bottom: 20px;
+            }
+            .summary-stats {
+                display: flex;
+                justify-content: space-between;
+                flex-wrap: wrap;
+                gap: 10px;
+            }
+            .stat-box {
+                background-color: #fff;
+                border-radius: 5px;
+                padding: 15px;
+                box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+                flex-basis: 30%;
+                min-width: 200px;
+            }
+            .stat-value {
+                font-size: 24px;
+                font-weight: bold;
+                margin-top: 5px;
+            }
+            table {
+                width: 100%;
+                border-collapse: collapse;
+                margin-top: 20px;
+            }
+            th {
+                background-color: #4a4a4a;
+                color: white;
+                text-align: left;
+                padding: 12px;
+            }
+            td {
+                padding: 10px;
+                border-bottom: 1px solid #ddd;
+                vertical-align: top;
+            }
+            tr:nth-child(even) {
+                background-color: #f9f9f9;
+            }
+            .output-cell {
+                white-space: pre-wrap;
+            }
+            .score {
+                font-weight: bold;
+                padding: 5px 10px;
+                border-radius: 3px;
+                display: inline-block;
+            }
+            .score-high {
+                background-color: #c8e6c9;
+                color: #2e7d32;
+            }
+            .score-medium {
+                background-color: #fff9c4;
+                color: #f57f17;
+            }
+            .score-low {
+                background-color: #ffcdd2;
+                color: #c62828;
+            }
+            .output {
+                overflow: auto;
+                white-space: pre-wrap;
+            }
+
+            .output pre {
+                background-color: #f5f5f5;
+                border: 1px solid #ddd;
+                border-radius: 4px;
+                padding: 10px;
+                margin: 0;
+                font-family: 'Consolas', 'Monaco', 'Courier New', monospace;
+                font-size: 14px;
+                line-height: 1.4;
+                color: #333;
+                box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1);
+                overflow-x: auto;
+                white-space: pre-wrap; 
+                word-wrap: break-word; 
+            }
+
+            td {
+                width: 20%;
+            }
+            .score-col {
+                width: 80px;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="header">
+            <h1>Prompt Evaluation Report</h1>
+            <div class="summary-stats">
+                <div class="stat-box">
+                    <div>Total Test Cases</div>
+                    <div class="stat-value">4</div>
+                </div>
+                <div class="stat-box">
+                    <div>Average Score</div>
+                    <div class="stat-value">8.2 / 10</div>
+                </div>
+                <div class="stat-box">
+                    <div>Pass Rate (≥7)</div>
+                    <div class="stat-value">100.0%</div>
+                </div>
+            </div>
+        </div>
+
+        <table>
+            <thead>
+                <tr>
+                    <th>Scenario</th>
+                    <th>Prompt Inputs</th>
+                    <th>Solution Criteria</th>
+                    <th>Output</th>
+                    <th>Score</th>
+                    <th>Reasoning</th>
+                </tr>
+            </thead>
+            <tbody>
+    
+            <tr>
+                <td>Testing with an interdisciplinary paper abstract containing mixed topics from biology, chemistry, and computational methods to verify accurate identification of multiple distinct research areas</td>
+                <td class="prompt-inputs"><strong>content:</strong> This study presents a novel approach to drug discovery by integrating computational molecular docking with experimental biochemistry. We employed machine learning algorithms to predict protein-ligand binding affinities, reducing screening time by 60%. Our methodology combines quantum chemistry calculations for electronic structure analysis with high-throughput chromatography to validate predicted compounds. We synthesized five novel inhibitor candidates targeting the SARS-CoV-2 main protease, analyzing their binding kinetics through surface plasmon resonance spectroscopy. The computational models achieved 92% accuracy when validated against experimental IC50 values. Our interdisciplinary framework demonstrates how artificial intelligence can accelerate traditional medicinal chemistry workflows, bridging structural biology, organic synthesis, and data science methodologies.</td>
+                <td class="criteria">• Identifies topics from all three research domains: biology (protein-ligand interactions, drug discovery, enzyme inhibition), chemistry (molecular docking, quantum chemistry, organic synthesis), and computational methods (machine learning, algorithms, data validation)<br>• Distinguishes between main topics and supporting technical details<br>• Captures interdisciplinary aspects that span multiple fields</td>
+                <td class="output"><pre>{"topics": ["drug discovery", "computational molecular docking", "experimental biochemistry", "machine learning algorithms", "protein-ligand binding affinities", "quantum chemistry", "electronic structure analysis", "high-throughput chromatography", "inhibitor synthesis", "SARS-CoV-2 main protease", "binding kinetics", "surface plasmon resonance spectroscopy", "artificial intelligence", "medicinal chemistry", "structural biology", "organic synthesis", "data science"]}</pre></td>
+                <td class="score-col"><span class="score score-high">8</span></td>
+                <td class="reasoning">The solution fully satisfies all mandatory requirements: it provides a valid JSON array containing only topic strings without extra commentary. It also meets the secondary criteria by identifying topics across all three domains (biology: drug discovery, protein-ligand interactions, SARS-CoV-2 protease; chemistry: molecular docking, quantum chemistry, organic synthesis; computational: machine learning, data science) and capturing interdisciplinary connections. However, the solution treats all extracted topics with equal weight rather than distinguishing between main topics and supporting technical details. While this is not a mandatory requirement violation, it represents a minor deficiency in addressing the secondary criteria about distinguishing topic hierarchy. The extraction is thorough and accurate, but could be more refined in its categorization.</td>
+            </tr>
+        
+            <tr>
+                <td>Testing with a highly specialized technical paper using domain-specific jargon and acronyms to evaluate whether the prompt correctly identifies topics despite unfamiliar terminology</td>
+                <td class="prompt-inputs"><strong>content:</strong> This paper presents a novel approach to mitigating adversarial perturbations in convolutional neural networks (CNNs) through adversarial training with FGSM and PGD attacks. We employ ResNet-50 architecture with batch normalization layers and implement certified defenses using randomized smoothing techniques. Our methodology incorporates differential privacy (DP) mechanisms with ε-δ bounds to quantify robustness guarantees. We evaluate performance metrics including clean accuracy, robust accuracy under L∞ perturbations, and certified radius bounds. Comparative analysis with existing defense mechanisms such as TRADES and MART demonstrates superior performance on CIFAR-10 and ImageNet datasets. Additionally, we explore the trade-off between model interpretability and adversarial robustness using attention mechanisms and gradient-based attribution methods (Grad-CAM). Our findings suggest that incorporating knowledge distillation from robust teacher models significantly improves generalization capabilities while maintaining computational efficiency on edge devices.</td>
+                <td class="criteria">• Identifies all major technical topics including adversarial training, defense mechanisms, privacy techniques, and model evaluation approaches<br>• Correctly recognizes domain-specific acronyms and jargon (FGSM, PGD, TRADES, MART, DP, L∞, Grad-CAM) as topic indicators<br>• Distinguishes between architectural components (ResNet-50, CNNs), techniques (randomized smoothing, knowledge distillation), and evaluation methods (certified radius bounds, clean/robust accuracy)</td>
+                <td class="output"><pre>[
+  "adversarial perturbations",
+  "convolutional neural networks (CNNs)",
+  "adversarial training",
+  "FGSM attacks",
+  "PGD attacks",
+  "ResNet-50 architecture",
+  "batch normalization",
+  "certified defenses",
+  "randomized smoothing",
+  "differential privacy",
+  "robustness guarantees",
+  "clean accuracy",
+  "robust accuracy",
+  "L∞ perturbations",
+  "certified radius bounds",
+  "TRADES",
+  "MART",
+  "CIFAR-10",
+  "ImageNet",
+  "model interpretability",
+  "attention mechanisms",
+  "Grad-CAM",
+  "gradient-based attribution methods",
+  "knowledge distillation",
+  "generalization",
+  "computational efficiency",
+  "edge devices"
+]</pre></td>
+                <td class="score-col"><span class="score score-high">9</span></td>
+                <td class="reasoning">The solution fully satisfies all mandatory requirements: it is a JSON array of strings containing only topics without extra comments or boilerplate. It also meets all secondary criteria by identifying major technical topics across adversarial training, defense mechanisms, privacy techniques, and evaluation approaches. The solution correctly recognizes domain-specific acronyms (FGSM, PGD, TRADES, MART, DP, L∞, Grad-CAM) and properly distinguishes between architectural components, techniques, and evaluation methods. The extraction is thorough and well-organized, with only minor redundancies that do not significantly detract from the overall quality.</td>
+            </tr>
+        
+            <tr>
+                <td>Testing with a humanities-focused paper containing implicit topics hidden within narrative prose rather than explicitly stated keywords to assess topic extraction from contextual language</td>
+                <td class="prompt-inputs"><strong>content:</strong> The Renaissance witnessed a profound transformation in how artists conceived of human representation. Through the meticulous study of anatomical proportions and the principles of linear perspective, painters and sculptors sought to capture not merely the physical likeness of their subjects, but the psychological depth of individual character. This period saw the emergence of the portrait as a vehicle for exploring questions of identity and social status, while simultaneously, the revival of classical texts prompted intellectual inquiry into the nature of virtue, beauty, and the relationship between the material and spiritual worlds. The patronage system that flourished in Florence and Rome fundamentally shaped artistic production, creating networks of exchange between merchants, clergy, and humanist scholars. Simultaneously, technological innovations in pigment production and the refinement of oil painting techniques enabled artists to achieve unprecedented levels of luminosity and atmospheric perspective, influencing how subsequent generations perceived and depicted the natural world.</td>
+                <td class="criteria">• Identifies implicit topics embedded within narrative prose without explicit keywords (e.g., artistic techniques, patronage systems, intellectual movements, technological innovation)<br>• Extracts topics contextually derived from thematic discussions rather than explicitly labeled keywords<br>• Recognizes interconnected topics across multiple domains (art history, technology, economics, philosophy)</td>
+                <td class="output"><pre>[
+  "Human representation in Renaissance art",
+  "Anatomical proportions",
+  "Linear perspective",
+  "Portrait as artistic vehicle",
+  "Identity and social status",
+  "Classical texts and intellectual inquiry",
+  "Virtue and beauty",
+  "Material and spiritual worlds",
+  "Patronage system",
+  "Florence and Rome",
+  "Merchant and clergy networks",
+  "Humanist scholars",
+  "Pigment production",
+  "Oil painting techniques",
+  "Luminosity and atmospheric perspective",
+  "Natural world depiction"
+]</pre></td>
+                <td class="score-col"><span class="score score-high">9</span></td>
+                <td class="reasoning">The solution fully satisfies all mandatory requirements: it is a JSON array of strings containing only topics without extra comments or boilerplate. It also meets the secondary criteria by identifying implicit topics embedded in narrative prose (anatomical proportions, linear perspective, oil painting techniques), recognizing interconnected topics across domains (patronage networks spanning economics and art history, technological innovation in pigment production), and extracting contextually-derived themes rather than relying on explicit keywords. The extraction is thorough and demonstrates strong comprehension of the source material's thematic structure. While there are minor opportunities to consolidate or refine some topic groupings, these do not constitute failures against the stated criteria.</td>
+            </tr>
+        
+            <tr>
+                <td>Testing with a paper abstract that has redundant or overlapping topic concepts to assess whether the prompt deduplicates related topics or lists them separately</td>
+                <td class="prompt-inputs"><strong>content:</strong> This paper investigates machine learning approaches for natural language processing tasks. We employ deep neural networks and artificial neural networks to improve text classification performance. Our methodology utilizes transformer architectures and neural language models for semantic analysis. We compare supervised learning and machine learning techniques across multiple datasets. The study demonstrates that deep learning methods, particularly neural network-based approaches, outperform traditional NLP methods. We also explore transfer learning and pre-trained language models to enhance model generalization. Results show that neural architectures consistently achieve state-of-the-art performance in natural language understanding and text processing benchmarks.</td>
+                <td class="criteria">• Identifies all distinct topics present in the abstract<br>• Deduplicates or groups semantically overlapping concepts (e.g., 'machine learning', 'deep learning', 'neural networks', 'neural network-based approaches' as related variants)<br>• Presents topics in a clear, non-redundant format</td>
+                <td class="output"><pre>[
+  "machine learning",
+  "natural language processing",
+  "deep neural networks",
+  "artificial neural networks",
+  "text classification",
+  "transformer architectures",
+  "neural language models",
+  "semantic analysis",
+  "supervised learning",
+  "deep learning",
+  "transfer learning",
+  "pre-trained language models",
+  "model generalization",
+  "natural language understanding",
+  "text processing"
+]</pre></td>
+                <td class="score-col"><span class="score score-medium">7</span></td>
+                <td class="reasoning">The solution successfully meets all mandatory requirements by providing a valid JSON array of clean topic strings with no extraneous content. It identifies all distinct topics present in the abstract comprehensively. However, it falls short on the secondary criterion of deduplicating or grouping semantically overlapping concepts. The solution lists multiple neural network variants and learning approaches as separate items rather than recognizing their semantic relationships. For example, 'deep neural networks', 'artificial neural networks', 'neural language models', and 'deep learning' are closely related and could be grouped or consolidated. Similarly, 'supervised learning' and 'transfer learning' represent related learning paradigms. While the current approach is valid and clear, it does not fully optimize for the deduplication criterion mentioned in the evaluation criteria.</td>
+            </tr>
+        
+            </tbody>
+        </table>
+    </body>
+    </html>
+    

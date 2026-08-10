@@ -1,0 +1,1003 @@
+
+Termos de Uso e Serviço
+
+TERMOS DE USO
+ Quem somos
+ Os nossos termos de uso
+ A sua utilização dos Serviços
+ O papel da Fever
+ E-mail
+ Conta, Palavra-passe e Segurança
+ Conteúdo
+ Conduta
+ Serviços adicionais; cupões e cupões
+ Ligações
+ Isenção de responsabilidade
+ Limitação de responsabilidade
+ Propriedade Intelectual
+ Política de privacidade; Informação do cliente
+
+
+
+
+ Quem somos
+
+
+A Fever Labs Inc. É uma corporação devidamente organizada e existente sob as leis do Estado de Delaware, Estados Unidos da América, com identificação FISCAL 99-0368536, com escritórios em 50 Greene St 3 Fl, New York, NY 10013, Estados Unidos ("Fever"). A plataforma Fever compreende este website e as nossas aplicações móveis (iOS e Android), e ajuda as pessoas a descobrir experiências curadas nas suas cidades.
+ Os Serviços
+
+
+Os sites e domínios da Fever, incluindo o www.feverup.com,  e todas as páginas da web, subdomínios, variantes de domínio de nível nacional e subpartes desses sites (coletivamente, o nosso "site"), todos os serviços disponíveis no ou através do site ou de outra forma fornecidos por nós (incluindo as nossas interfaces de programação de aplicações), e todas as nossas aplicações móveis gratuitas, incluindo, sem limitação, a aplicação Fever, são oferecidas, mantidas e fornecidas pela Fever. Referimo-nos a estes como os nossos "Serviços".
+
+
+
+ Utilizadores
+
+
+Através dos Serviços, a Fever fornece um meio simples e rápido para os utilizadores registados que são organizadores de eventos, planeadores e organizações de beneficência ("Organizadores de eventos") para criar registos de eventos, perfis de oradores, perfis de organizadores, angariação de fundos e outras páginas web relacionadas com os seus eventos, promover essas páginas e eventos a visitantes ou navegadores dos Serviços e vender bilhetes e registos (ou emitir registos gratuitos) e vender mercadorias relacionadas com esses eventos a utilizadores que desejem fazer compras, registos ou doações de ou para tais eventos (incluindo eventos gratuitos) ("clientes").
+
+Referimo-nos a organizadores de eventos, clientes e outros visitantes e navegadores dos Serviços coletivamente como "utilizadores" ou "você".
+
+
+
+ Os nossos termos de uso
+
+
+
+Aplicação
+
+
+A política a seguir estabelece os termos e condições sobre os quais você pode usar os Serviços (os "Termos de Uso"). Se você usar os Serviços de alguma forma, estes Termos de Uso aplicam-se a você. Ao aceitar os Termos de Serviço e usar os Serviços de qualquer forma, você concorda com estes Termos de Uso sem modificação e celebrar um contrato vinculativo com a Fever.
+
+
+
+ Incorporação por referência
+
+
+Estes Termos de Uso e os direitos e obrigações contidos nestes Termos de Uso são adicionais e estão incorporados nos Termos de Serviço por referência. Nada nestes Termos de Uso será considerado como modificação, renuncia, alteração ou rescind qualquer outro termo dos Termos de Serviço.
+
+ A sua utilização dos Serviços
+
+
+
+Os Serviços
+
+
+A Fever concede-lhe um direito pessoal, não exclusivo, intransferível, não sublicenciável, revogável (de acordo com a Secção 4 dos Termos de Serviço), limitado de aceder e utilizar os Serviços exclusivamente para efeitos de (a) navegar nos Serviços e procurar, visualizar, registar ou comprar bilhetes ou fazer donativos para um evento que está registado nos Serviços; e/ou (b) se for um organizador, criar registo de eventos, perfil de orador, perfil de organizador, angariação de fundos e outras páginas da web relacionadas com, e promover, gerir, acompanhar, e recolher os lucros das vendas para, um evento, em cada caso (i) em conformidade com estes Termos de Uso, Acordo Comercial, Política de Privacidade e, em geral, os Termos de Serviço; e (ii) na medida permitida sob todas as leis, regras e regulamentos locais, estaduais, provinciais, nacionais e outras aplicáveis. Não obstante o exposto, você não deve, e não deve permitir a ninguém, direta ou indiretamente
+
+(A) copiar, modificar, reproduzir, traduzir, localizar, ou de outra forma criar derivados de qualquer parte dos Serviços; (B) fazer engenharia reversa, desmontar, descompilar ou tentar descobrir o código-fonte ou estrutura, sequência e organização de toda ou qualquer parte dos Serviços (exceto que esta restrição não se aplica à extensão limitada que as restrições à engenharia reversa são proibidas pelas leis, regras ou regulamentos locais, estaduais, provinciais, nacionais ou outras); (C) alugar, alugar, revender, distribuir, usar os Serviços para timesharing, serviços ou outros fins comerciais não contemplados neste parágrafo ou explorar os Serviços de qualquer maneira não autorizada ou não intencional; (D) remover ou alterar quaisquer avisos ou rótulos de propriedade nos ou nos Serviços; ou (e) envolver-se em qualquer atividade que interfira ou perturbe os Serviços. Todos os direitos não expressamente concedidos neste parágrafo são reservados.
+
+
+
+ Aplicações
+
+
+Você pode acessar e usar os Serviços através de nossos aplicativos, site ou qualquer outra plataforma da Fever (todos juntos, "os aplicativos"). Para maior clareza, qualquer acesso ou uso dos Serviços através das Aplicações e das próprias Aplicações será considerado parte dos Serviços e sujeito aos Termos de Serviço e a estes Termos de Uso. Este direito de acesso e utilização das aplicações pode ser revogado de acordo com a Secção 4 dos Termos de Serviço e a FEVER pode descontinuar ou modificar as aplicações, conforme estabelecido na Secção 12 abaixo.
+
+ O papel da Fever
+
+Serviço de listagem e Agente Limitado
+
+
+Salvo disposição em contrário no contrato entre a Fever e o organizador do evento (ou seja, pré-compra de inventário por Fever para certos eventos), a Fever não é a organizadora ou proprietária dos eventos listados para venda ou registo nos Serviços. A Fever fornece os Serviços, que permitem aos organizadores de eventos listar e promover os seus eventos, mas todas as vendas são, por defeito e na origem, feitas pelo respetivo Organizador listado na página do evento aplicável. A Fever também atua como agente limitado do Organizador apenas com o propósito de usar seus fornecedores de pagamento de terceiros para cobrar pagamentos feitos por clientes nos Serviços com relação a um evento e passar esses pagamentos para o Organizador aplicável. É a única obrigação do Organizador assegurar que qualquer publicação de página de evento nos Serviços e a natureza e conduta do evento subjacente cumpram todas as leis, regras e regulamentos locais, estaduais, provinciais, nacionais e outras leis, regras e regulamentos aplicáveis, e que os bens e serviços descritos em qualquer caso, a publicação de páginas são realmente entregues de forma satisfatória.
+
+
+
+ Pagamentos de clientes
+
+Todos os pagamentos feitos pelos clientes para participar nos Eventos dos Organizadores serão feitos através das aplicações da Fever. A Fever pode usar parceiros de processamento de pagamentos de terceiros para processar a transação como agente de pagamento limitado do Organizer.
+
+
+
+ Taxas
+
+
+Criar uma conta, listar um evento através do 0% de comissão Link e aceder aos Serviços é gratuito. Cobramos as nossas taxas apenas quando vende ou compra bilhetes ou registos pagos através de uma das plataformas Fever. Todas as descrições das taxas padrão nos Serviços representam as taxas padrão que a Fever cobra aos organizadores. Estas taxas podem variar com base em acordos individuais entre a Fever e certos organizadores. Estas taxas serão absorvidas no preço do bilhete ou do registo e, a critério exclusivo da Fever, a) pagas pelo Organizador sem bilhete e com os lucros brutos da inscrição ou b) deduzidas pela Fever do valor devido pela Fever ao Organizador. As taxas cobradas aos clientes podem incluir outros encargos, incluindo, sem limitação, taxas de instalação, direitos de autor, impostos, taxas de processamento e taxas de cumprimento. Portanto, as taxas implícitas pagas pelos clientes por um evento não são necessariamente o mesmo que as taxas cobradas pela FEVER ao Organizador aplicável ou as taxas padrão descritas no Contrato Comercial. Além disso, certas taxas destinam-se, em média, a reduzir determinados custos incorridas pela Fever, mas podem, em alguns casos, incluir um elemento de lucro e, em alguns casos, incluir um elemento de perda. A Fever não controla (e, portanto, não pode revelar) as taxas cobradas pelo seu banco e/ou empresa de cartão de crédito, incluindo as taxas de compra de bilhetes e registos em moedas estrangeiras ou de pessoas estrangeiras. Certifique-se de verificar com o seu banco ou empresa de cartão de crédito antes de realizar uma transação para entender todas as taxas aplicáveis, sobretaxas de cartão de crédito e taxas de conversão de moeda.
+
+
+
+ Reembolsos
+
+
+As diferentes políticas de troca e reembolso estabelecidas pelos nossos organizadores do evento proíbem a Fever, por defeito, de emitir trocas ou reembolsos após a reserva ser feita.
+
+Se um reembolso ou troca for solicitada por um cliente, esse pedido será processado pela Fever. A Fever pede, portanto, que todos os clientes contactem o Serviço de Apoio ao Cliente da Fever com quaisquer pedidos de reembolso.
+
+Os bilhetes para Fever não são reembolsáveis. No caso de um evento ser adiado, há uma mudança de local ou qualquer outra mudança significativa de evento (ou, no caso de um festival de música, para o line-up), ou o evento é cancelado por razões não imputáveis à Fever, os clientes devem contactar a Fever o mais tardar na segunda-feira seguinte ao evento para solicitar um vale para o mesmo bilhete numa data posterior ou o valor equivalente a ser gasto noutros planos da aplicação.
+
+
+
+ E-mail
+
+
+
+Ferramentas de e-mail
+
+
+A Fever poderá disponibilizar-lhe funcionalidades e ferramentas que lhe permitem contactar outros utilizadores dos Serviços ou terceiros através de e-mail (as "Ferramentas de E-mail"). No caso de você usar estas ferramentas de e-mail, você declara, garante e concorda que:
+
+ você tem todo o direito e a autoridade necessária para enviar e-mails
+os endereços na sua lista de destinatários, incluindo, sem limitação, que esses endereços foram recolhidos numa base de aceitação em qualquer jurisdição onde tal seja exigido pela legislação, regra ou regulamentação local, estadual, provincial, nacional ou outra, aplicável, e o seu e-mail de tais endereços cumpre com a política de privacidade sob a qual os e-mails do destinatário foram recolhidos e que foi divulgado aos destinatários no momento da recolha;
+
+O uso das ferramentas de e-mail está em conformidade com todas as leis locais, estaduais, provinciais, nacionais e outras leis aplicáveis,
+regras e regulamentos, incluindo os relacionados com spam e e-mail;
+
+O seu uso das ferramentas de e-mail será unicamente para gerir um evento de boa fé que você listou nos Serviços;
+O uso das ferramentas de e-mail e o conteúdo dos seus e-mails
+Em conformidade com a Secção 8,1 destes Termos de Uso;
+
+Você não usará cabeçalhos falsos ou enganosos ou linhas de assunto enganosas em e-mails enviados usando as ferramentas de e-mail;
+identificará a mensagem de e-mail como de natureza comercial ;
+Não irá ocultar, desativar, remover ou tentar ocultar, desativar ou remover o link de cancelamento de subscrição que a Fever inclui em todos os e-mails; e.
+
+
+ Remédios
+
+
+Se você não cumprir qualquer um dos anteriores, se o seu uso das ferramentas de e-mail resultar em taxas de rejeição, taxas de reclamação ou pedidos de cancelamento de assinatura que excedem os padrões da indústria ou se os seus e-mails forem encontrados para causar interrupções nos Serviços, a Fever pode, entre outras ações, limitar ou suspender o seu acesso às ferramentas de e-mail ou, em última análise, cancelar a sua conta.
+
+
+
+ Conta, Palavra-passe e Segurança
+
+
+
+Registo
+
+
+Como parte de certos processos de registo nos Serviços, irá criar uma conta ou alterar ou adicionar informações sobre a sua conta. Você concorda em (a) fornecer informações verdadeiras, precisas, atuais e completas sobre você, (os "Dados de Registro"); e (b) manter e atualizar prontamente os Dados de Registro para mantê-los verdadeiros, precisos, atuais e completos. No caso de qualquer disputa entre duas ou mais partes quanto à propriedade da conta, você concorda que a Fever será o único árbitro de tal disputa, a seu critério e a decisão dessa Fever (que pode incluir a terminação ou suspensão de qualquer conta sujeita a disputa) serão finais e vinculativas para todas as partes.
+
+
+
+ Segurança
+
+
+Você é responsável por manter a confidencialidade de sua senha e detalhes da conta, e é totalmente responsável por todas as atividades que ocorrem em sua conta. Você concorda em notificar imediatamente a Fever de qualquer uso não autorizado de sua senha ou conta ou qualquer outra violação de segurança.
+
+ Restrições de idade
+
+
+A Fever está preocupada com a segurança e privacidade das crianças. Por esta razão, e para ser consistente com os termos de uso de quaisquer fornecedores de serviços terceiros usados pela Fever, você deve ter pelo menos dezoito (18) anos de idade, ou a idade legal da maioridade em que reside, para usar os Serviços. Caso contrário, você pode usar os Serviços apenas com o envolvimento de um pai ou responsável. Em qualquer caso, você não pode usar os Serviços ou se inscrever se tiver menos de treze (13) anos.
+
+
+
+ Conteúdo
+
+
+
+Conteúdo do website
+
+
+Você concorda que todo o material, incluindo, sem limitação, informações, dados, texto, conteúdo editorial, elementos de design, olhar e sentir, formatar, gráficos, imagens, fotografias, vídeos, músicas, sons e outros conteúdos (coletivamente, "Conteúdo"), contidos ou entregues através dos Serviços ou disponibilizados pela Fever em conexão com os Serviços (coletivamente, "Conteúdo do Site") são protegidos por direitos autorais, marcas comerciais, marcas de serviço, segredos comerciais ou outra propriedade intelectual e outros direitos e leis de propriedade. A Fever pode ser proprietária do conteúdo do site ou partes do conteúdo do site podem ser disponibilizadas à Fever através de acordos com terceiros. A compilação de todo o conteúdo do site incluído ou disponibilizado através dos Serviços é propriedade exclusiva da Fever e está protegida pelas leis de direitos de autor. Exceto quando expressamente autorizado pela Fever por escrito ou em conexão com o seu uso permitido da funcionalidade prevista dos Serviços, você concorda em não vender, licenciar, alugar, modificar, distribuir, copiar, reproduzir, transmitir, exibir publicamente, executar publicamente, publicar, adaptar, editar ou criar trabalhos derivados de qualquer conteúdo do website, ou publicar qualquer conteúdo do website em qualquer outro website ou num ambiente de computador em rede para qualquer finalidade. Você deve usar o conteúdo do site apenas para os fins permitidos por estes Termos de Uso e qualquer lei, regra ou regulamento local, estadual, provincial, nacional ou outra lei aplicável. Todos os direitos não expressamente concedidos aqui são reservados.
+
+
+
+ O teu conteúdo
+
+
+Você reconhece e concorda que, se você contribuir, fornecer ou disponibilizar qualquer conteúdo para os Serviços ("Seu conteúdo"), você concede à Fever uma licença não exclusiva, mundial, perpétua, irrevogável, livre de direitos, direito transferível, sublicenciável (através de vários níveis) e licença para aceder, usar, reproduzir, transmitir, adaptar, modificar, executar, exibir, distribuir,traduzir, publicar e criar trabalhos derivados com base no seu conteúdo, no todo ou em parte, em qualquer meio de comunicação, com a finalidade de operar os Serviços (incluindo os serviços promocionais e de marketing da Fever). Não obstante o exposto, a Fever não reivindica, e você não transfere, quaisquer direitos de propriedade de qualquer conteúdo do seu e nada nestes Termos de Uso restringirão quaisquer direitos que você possa ter para usar e explorar o seu conteúdo fora dos Serviços. Você declara e garante que tem todos os direitos, poder e autoridade necessários para conceder a licença anterior, e que todo o seu conteúdo (a) não infringe, viole, desaproprie ou de outra forma, conflito com os direitos de terceiros; (B) cumpre todas as leis, regras e regulamentos locais, estaduais, provinciais, nacionais e outras; e (c) não viola os Termos de Serviço, incluindo, sem limitação, estes Termos de Uso e a Política de Privacidade. Além disso, o seu conteúdo deve ser preciso e verdadeiro. A Fever reserva-se o direito de remover qualquer parte do seu conteúdo dos Serviços a qualquer momento se a Fever acreditar, a seu critério, que viola os Termos de Serviço, incluindo, sem limitação, estes Termos de Uso. Além disso, você concorda que a Fever pode usar o seu nome e logotipo (quer você tenha ou não disponibilizado através dos Serviços) com o objetivo de identificá-lo como um cliente existente ou passado da Fever, tanto nos Serviços como em marketing, publicidade e materiais promocionais.
+
+
+
+ Comentários e revisões
+
+
+Você reconhece que (a) todas e quaisquer sugestões para correção, alteração e modificação dos Serviços e outros comentários (incluindo, mas não limitado a, citações de comentários escritos ou orais), informações e relatórios fornecidos à Fever por você (coletivamente, "Feedback"); e (b) todas as melhorias, atualizações, modificações ou melhorias, sejam feitas, criadas ou desenvolvidas pela Fever ou de outra forma relacionadas com o feedback (coletivamente, "revisões"), são e continuarão a ser propriedade da Fever. Todos os comentários e revisões tornam-se propriedade única e exclusiva da Fever e Fever podem usar e divulgar os comentários e/ou revisões de qualquer maneira e para qualquer finalidade, sem aviso prévio ou compensação para você e sem a retenção por você de qualquer direito ou outro direito ou reivindicação de propriedade. Por este meio, você atribui à Fever todo e qualquer direito, título e interesse (incluindo, mas não limitado a, qualquer patente, direitos autorais, direitos autorais futuros, segredo comercial, marca, show-how, know-how e qualquer outro direito de propriedade intelectual) que possa ter em e para todo e qualquer feedback e revisões. Você concorda em renunciar a quaisquer direitos morais que possa ter em todo e qualquer Feedback e Revisões, e concorda com qualquer ato que seja uma violação de qualquer direito moral, em favor da Fever. A pedido da Fever, você executará qualquer documento, cadastro ou depósito necessário para dar efeito a estas disposições.
+
+
+
+ Conduta
+
+
+
+Certas restrições
+
+
+Todas as interações no site devem estar em conformidade com os Termos de Serviço da Fever. Na medida em que a sua conduta, a nosso exclusivo critério, restrinja ou inibe qualquer outro utilizador de usar ou desfrutar de qualquer parte do site, podemos limitar os seus privilégios no site e procurar outros recursos. As seguintes atividades realizadas por qualquer utilizador do site são proibidas no site e constituem violações expressas dos termos de serviço e destes termos de uso:
+
+Enviar qualquer conteúdo para o website que: I) contenha informações pessoais dos utilizadores, tais como o seu e-mail e nome ("Informações pessoais"), exceto quando expressamente lhe pedimos que forneça essas informações; ii) viole quaisquer leis nacionais ou internacionais aplicáveis (incluindo, mas não se limitando a, leis de propriedade intelectual, leis relativas aos direitos de privacidade e direitos de publicidade e leis relacionadas com a difamação); iii) oferece downloads não autorizados de qualquer informação protegida por direitos de autor, confidencial ou privada; iv) fazer-se passar por qualquer pessoa ou entidade, ou falsificar ou de outra forma deturpar-se a si ou à sua afiliação com qualquer pessoa ou entidade; v) possuir ou criar um risco de privacidade ou segurança para qualquer pessoa; vi) fazer uso de linguagem ou imagens ofensivas; vii) contém vírus de software ou malware ou qualquer outro código de computador concebido para interromper ou limitar a funcionalidade de qualquer software ou hardware de computador; ou viii) está protegido por direitos de autor, marca comercial ou outro direito de propriedade sem a autorização expressa do proprietário dos direitos de autor, marca comercial ou outro direito de propriedade.
+Tentar fazer ou realmente fazer qualquer um dos seguintes: I) interferir, interromper ou danificar o serviço prestado a qualquer utilizador de qualquer forma, incluindo, sem limitação, enviar um vírus para o website ou tentar sobrecarregar, "inundar", "spam", "bomba de correio" ou "travar" o website; II) examinar ou monitorizar o website para fins de recolha de dados, num esforço para rastrear vendas, utilização, informação de oferta agregada, informação de preços ou dados semelhantes; iii) verificar ou testar a segurança ou configuração do website ou violar medidas de segurança ou autenticação; ou iv) aceder a dados não destinados a si, como iniciar sessão num servidor ou numa conta a que não está autorizado a aceder.
+Usar qualquer um dos seguintes: I) frames, técnicas de enquadramento ou tecnologia de enquadramento para incluir qualquer conteúdo incluído no site sem a nossa autorização expressa por escrito; II) qualquer conteúdo do website, incluindo, sem limitação, "Informações do cliente" (definidas abaixo na Secção 14,2 destes termos de utilização), em quaisquer meta tags ou quaisquer outras técnicas de "texto oculto" ou
+tecnologias sem a nossa autorização expressa por escrito; III) o site ou qualquer um dos seus recursos para solicitar aos consumidores, fornecedores de atividade ou outros terceiros que se tornem utilizadores ou parceiros de outros serviços online ou offline, direta ou indiretamente competitivos ou potencialmente competitivos com Fever, incluindo, sem limitação, a agregação de atividades atuais ou anteriormente oferecidas; ou IV) o site ou qualquer um dos seus conteúdos para anunciar ou solicitar qualquer conteúdo com fins comerciais, políticos ou religiosos.
+
+Recolher qualquer um dos seguintes: I) Informações pessoais, "Informações do cliente" (conforme definido na Secção 14,2. Destes Termos de Uso); ou ii) conteúdo do site, incluindo, mas não limitado a, informações relacionadas com atividades atuais ou anteriormente oferecidas; com o objetivo de apresentar tal conteúdo aos consumidores de qualquer maneira que desvie o tráfego do site sem a nossa permissão expressa por escrito.
+Participar em qualquer um dos seguintes: I) adulterar ou interferir com o bom funcionamento de qualquer parte, página ou área do site ou quaisquer funções ou serviços fornecidos pela Fever; II) violar as restrições em qualquer cabeçalho de exclusão de robôs no site ou contornar ou contornar outras medidas empregadas para impedir ou limitar o acesso ao site; iii) revender ou reutilizar o seu acesso ao site ou quaisquer compras feitas através do site; IV) usar qualquer conta da Fever para revenda ou para fins especulativos, falsos, fraudulentos ou qualquer outro propósito não expressamente permitido por estes Termos de Uso;
+v) tomar qualquer ação que exija excessivamente os nossos serviços ou que imponha, ou possa impor, uma carga irrazoável ou desproporcionadamente grande nos nossos servidores ou outra parte da nossa infraestrutura (conforme determinado a nosso exclusivo critério); VI) aceder, monitorizar ou copiar qualquer conteúdo do website usando qualquer "robô", "aranha", "raspador" ou outros meios automatizados ou qualquer processo manual para qualquer fim sem a nossa autorização expressa por escrito; vii) agregar quaisquer atividades atuais ou anteriormente oferecidas ou outro conteúdo ou informação do website (seja usando links ou outros meios técnicos ou registos físicos associados a compras feitas através do website) com material de outros websites e publicando-o nem no nosso website nem num website secundário sem a nossa autorização expressa por escrito; VIII) vinculação profunda a qualquer parte do site (incluindo, sem limitação, o caminho de compra de qualquer bilhete) sem a nossa autorização expressa por escrito; IX) hiperlink para o site a partir de qualquer outro site sem o nosso consentimento por escrito; ou x) agir ilegalmente ou maliciosamente contra os interesses comerciais ou a reputação da FEVER e/ou das suas subsidiárias ou afiliadas, incluindo, sem limitação, a Fever Labs, Inc., os nossos fornecedores de atividade ou os nossos serviços.
+
+
+
+ Certos Direitos Corretivos.
+
+
+Você reconhece e concorda que a Fever pode preservar o seu conteúdo e informações da conta e também pode divulgar o seu conteúdo e informações da conta, se exigido por lei ou para atender a possíveis pedidos das autoridades públicas e.
+
+Tribunais para (a) cumprir o processo legal; (b) responder a reivindicações de que qualquer um dos seus conteúdos viola os direitos de terceiros; (c) fazer cumprir ou administrar os Termos de Serviço, incluindo, sem limitação, estes Termos de Uso; e/ou (d) proteger os direitos, a propriedade e/ou a segurança pessoal da Fever, dos seus utilizadores e/ou do público, incluindo a prevenção da fraude. O utilizador compreende que o processamento técnico e a transmissão dos Serviços, incluindo o seu conteúdo, podem envolver transmissões através de várias redes e/ou alterações para se conformar e adaptar aos requisitos técnicos de ligação de redes ou dispositivos.
+
+
+
+ Serviços adicionais; cupões e cupões
+
+
+
+Outros serviços
+
+
+A Fever pode, a pedido, e para as taxas que a Fever possa estabelecer de tempos em tempos, a seu exclusivo critério, fornecer-lhe serviços adicionais para além da funcionalidade básica do Site e das aplicações, incluindo, sem limitação, serviços de marketing e promoção, leasing de passagens e outros equipamentos, fornecer consultores de gestão de entrada no local para ajudá-lo com a configuração do seu evento e fornecer serviços dedicados de gestão de contas. Todos esses serviços adicionais, sejam fornecidos antes, durante ou após o seu evento, serão considerados parte dos Serviços e sujeitos a todos os termos e condições dos Termos de Serviço, incluindo, sem limitação, estes Termos de Uso. Esses serviços adicionais devem ser estabelecidos em termos e condições adicionais ou outros acordos escritos entre você e um oficial autorizado da Fever, e devem estabelecer as taxas aplicáveis e os outros termos e condições relacionados a esses serviços adicionais.
+
+
+
+ Cupões e cupões
+
+
+A Fever concederá, de tempos em tempos, vales aos clientes para os resgatar no momento da compra de um evento pago através de qualquer uma das plataformas Fever. O uso e o resgate de tais cupões estarão sob as condições específicas estipuladas pela Fever e adicionadas às informações do Cupom disponíveis ao Cliente. A Fever reserva-se o direito de estipular, a seu exclusivo critério, uma política ou conjunto de termos diferentes para cada um dos Cupons concedidos.
+
+Os cupões são propriedade da Fever e são oferecidos por si próprios
+
+discrição. Os utilizadores concordam que os Cupons podem estar sujeitos a alterações, quer tenham sido resgatados ou não, nos casos em que a Fever o considere necessário.
+
+Cada Cupom só será válido e resgatável na mesma cidade onde o Cupom foi originalmente concedido. Tentar mudar a Cidade selecionada no pedido com o único propósito de ser atribuído os Cupons que estão a ser oferecidos em tal Diferentes cidades constituem um uso indevido das aplicações e das plataformas da Fever e podem automaticamente resultar no cancelamento de parte ou de todos os cupões do utilizador ou, em última análise, no cancelamento da conta.
+
+Cada Cupom tem a sua própria data de validade e condições que
+
+Serão indicados no próprio cupão e que estará disponível para o cliente. Os planos comprados com cupões inválidos serão automaticamente cancelados.
+
+
+
+ Ligações
+
+
+
+Websites de terceiros
+
+
+Os Serviços podem fornecer, ou os utilizadores (em particular, organizadores de eventos) podem fornecer, links para outros sites ou recursos da Internet. Como a Fever não tem controlo sobre esses sites e recursos, o utilizador reconhece e concorda que a Fever não é responsável pela disponibilidade de tais sites ou recursos, e não endossa e não é responsável por qualquer conteúdo, publicidade, produtos, serviços ou outros materiais ou disponíveis a partir desses sites ou recursos, ou quaisquer danos ou perdas relacionados a eles, mesmo que esses sites ou recursos estejam relacionados com parceiros da Fever ou fornecedores de serviços terceiros. Quaisquer dados pessoais processados por esses sites de terceiros estão sujeitos às suas próprias políticas de privacidade que você deve ler atentamente e aceitar, quando aplicável. Nenhum dado pessoal é transferido da Fever para o website de terceiros, exceto nos casos previstos na Política de Privacidade.
+
+
+
+ Contas vinculadas
+
+
+Como parte dos Serviços, pode ser possível associar uma conta que tem a um serviço de terceiros, como um website de redes sociais (por exemplo: Facebook ou Google). Ao associar essa conta de terceiros, você concorda que a Fever pode aceder, disponibilizar e armazenar qualquer conteúdo que você tenha fornecido e armazenado em tal conta de terceiros para que ele esteja disponível nos ou através dos Serviços
+
+
+
+ Isenção de responsabilidade
+
+
+O site e o seu conteúdo são fornecidos "tal como estão" e "conforme disponíveis". A Fever isenta-se de todas as garantias, expressas ou implícitas, incluindo também quaisquer garantias implícitas de comercialização e adequação a um propósito específico. A Fever não promete que o site seja livre de erros, sem interrupções, ou que irá fornecer resultados específicos do uso do site ou de qualquer conteúdo, pesquisa ou link nele. A Fever não pode garantir que os ficheiros que descarregar a partir do website estarão livres de vírus ou contaminação ou funcionalidades destrutivas. A Fever não será responsável por quaisquer danos de qualquer tipo decorrentes do uso deste website, incluindo, sem limitação, danos diretos, indiretos, incidentais, punitivos e consequentes. A Fever não garante nenhum resultado específico do uso deste site ou do uso do serviço Fever.
+
+
+
+ Limitação de responsabilidade
+
+
+Embora nos esforcemos para garantir que o website está sempre totalmente operacional, nessas ocasiões em que haja interrupções no serviço devido a manutenção essencial, atualizações do sistema, interrupções do serviço de internet ou quaisquer outros fatores além do nosso controle, a Fever não será responsável por quaisquer danos indiretos, consequentes, exemplares, incidentais, danos especiais ou punitivos, ou por lucros cessantes, receitas ou oportunidades de negócio, mesmo que a Fever tenha sido avisada da possibilidade de tais danos. Em nenhum caso a Fever será responsável por qualquer perda indireta ou consequente ou qualquer perda (incorrida direta ou indiretamente) de lucro, negócio, receita, data, goodwill ou reputação. A Fever isenta-se de toda e qualquer responsabilidade pelos atos, omissões e conduta de quaisquer utilizadores de terceiros, utilizadores da Fever, anunciantes e/ou patrocinadores no website, relacionados com os Serviços ou de outra forma relacionados com a sua utilização do website e/ou dos Serviços. A Fever não é responsável pelos produtos, serviços, ações ou falha em agir de qualquer local, artista, promotor ou outro terceiro em relação ou referência no website. Não obstante o exposto, nada nos Termos de Serviço, em geral, e nos Termos de Uso, em particular, deve ser levado a limitar ou excluir qualquer responsabilidade que a Fever possa ter por (i) morte ou danos pessoais resultantes de negligência da Fever; (ii) falsidade ideológica; ou (iii) qualquer responsabilidade que não possa ser excluída ou restrita por lei.
+
+
+
+ Propriedade Intelectual
+
+
+Todo o conteúdo fornecido no site da Fever é protegido por direitos autorais, marcas registradas, segredos comerciais e outras leis e tratados de propriedade intelectual. A Fever, o website, e o design são protegidos por leis de propriedade intelectual, bem como de propriedade da Fever Labs Inc. Todos os direitos reservados.
+
+
+
+ Política de privacidade; Informação do cliente
+
+
+
+14,1. Política de privacidade
+
+
+
+A Fever valoriza muito a privacidade dos seus utilizadores. Para mais informações sobre a proteção de dados pessoais, por favor, consulte
+
+A política de privacidade da Fever está disponível aqui .
+
+A Política de Privacidade está incorporada nos Termos de Serviço por referência. Deve rever e aceitar a Política de Privacidade.
+
+
+
+14,2 Acesso aos dados pessoais pelos organizadores do evento
+
+
+Todas as Informações sobre o Cliente publicadas por um Cliente em páginas de eventos publicadas por um Organizador nos Serviços serão partilhadas com o Organizador aplicável e também poderão ser usadas pela FEVER de acordo com a nossa Política de   Privacidade , incluindo marketing ou promoção de outros eventos ou serviços que possam ser do interesse do cliente aplicável. Note que os dados de pagamento ( conforme   definido na Política de Privacidade)   não serão partilhados com os organizadores. Cada Organizer representa, garante e concorda que (a) irá sempre cumprir todas as leis, regras e regulamentos locais, estaduais, provinciais, nacionais e outras leis, regras e regulamentos aplicáveis em relação à Informação do Cliente; (B) cumprirá sempre as políticas aplicáveis publicadas nos Serviços em relação às Informações do Cliente; e (c) a pedido de um determinado Cliente ou conforme permitido na Secção 8,2 destes Termos de Uso, a Fever está autorizada, a seu critério, a apagar ou tornar anónima a Informação do Cliente de um Cliente Solicitante dos Serviços, altura em que deixará de estar disponível para o Organizador através dos Serviços ou deixará de estar ligada a um Cliente Identificável através dos Serviços. Para os fins desta Secção, "Informação do Cliente" significa informação sobre um determinado Cliente que é disponibilizado nos ou através dos Serviços, incluindo, sem limitação, nome, morada, endereço de e-mail, presença de eventos passados, interesses de eventos, tipo de cartão de crédito, últimos 4 dígitos de cartão de crédito e números de telefone, mas excluindo Dados de pagamento.
+
+
+
+
+TERMOS DE SERVIÇO
+
+
+ Quem somos
+ Os nossos termos de serviço
+ A sua aceitação
+ Termo; Rescisão
+ Termos especiais para uso internacional
+Termos legais importantes que regem todo o uso dos Serviços  
+ Quem somos
+
+
+Fever
+
+O proprietário do site www.feverup.com  assim como o aplicativo (ou "aplicativo") é FEVER LABS, INC. (Doravante, Fever), TIN:99-0368536, registado em 50 Greene St 3 Fl, New York, NY 10013, Estados Unidos.
+
+Fever é uma aplicação web e móvel que leva os utilizadores a consumir entretenimento offline, fornecendo eventos selecionados com base na sua análise proprietária de dados de consumo. A Fever é capaz de conduzir o tráfego e proporcionar uma via para a descoberta espontânea dos organizadores do evento.
+
+
+
+ Os Serviços
+
+Os sites e domínios da Fever, incluindo o www.feverup.com,  e todas as páginas da web, subdomínios, variantes de domínio de nível nacional e subpartes desses sites (coletivamente, o nosso "site"), todos os serviços disponíveis no ou através do site ou de outra forma fornecidos por nós (incluindo as nossas interfaces de programação de aplicações), e todas as nossas aplicações móveis gratuitas, incluindo, sem limitação, a aplicação Fever, são oferecidas, mantidas e fornecidas pela Fever. Referimo-nos a todos estes como os nossos "Serviços".
+
+
+
+ Utilizadores
+
+
+Através dos Serviços, a Fever fornece um meio simples e rápido para os utilizadores registados que são organizadores de eventos, planeadores e organizações de beneficência ("Organizadores de eventos") para criar registos de eventos, perfis de oradores, perfis de organizadores, angariação de fundos e outras páginas da web relacionadas com os seus eventos, promover essas páginas e eventos a visitantes ou navegadores dos Serviços e vender bilhetes e registos (ou emitir registos gratuitos) e vender mercadorias relacionadas com esses eventos a utilizadores que desejem fazer compras, registos ou doações de ou para tais eventos (incluindo eventos gratuitos) ("clientes"). Referimo-nos a organizadores de eventos, clientes e outros visitantes e navegadores dos Serviços coletivamente como "utilizadores" ou "você".
+
+
+
+ Parte contratante
+
+
+Os Serviços estão a ser fornecidos e o utilizador está a entrar nestes Termos de Serviço com a Fever Labs, Inc., uma Delaware Corporation com sede em Nova Iorque (50 Greene St 3 Fl, New York, NY 10013, Estados Unidos da América) Fever, "nós", "nós" ou "nosso".
+
+
+
+ Os nossos termos de serviço
+
+
+Termos de Serviço
+
+
+As páginas seguintes contêm o nosso Contrato de Termos de Serviço ("Termos de Serviço"). Estes Termos de Serviço regem todos os nossos Serviços, todos os quais são oferecidos sujeitos à sua aceitação sem modificação destes Termos de Serviço. Além das secções abaixo, estes Termos de Serviço incluem e incorporam por referência os seguintes acordos, termos, políticas, requisitos e diretrizes:
+
+ Os nossos Termos de Uso estão disponíveis aqui ;
+ A nossa Política de Privacidade está disponível aqui;
+Para os organizadores que publicam eventos com bilhetes pagos ou gratuitos, seja através do nosso Link de 0% de comissão ou através das plataformas Fever, o nosso Contrato de Comercialização está  disponível aqui ;
+Termos e condições adicionais que são exibidos juntamente com Serviços adicionais que você pode usar ou comprar de tempos em tempos.
+
+
+ A sua aceitação
+
+
+Acordo vinculativo
+
+Concorda com estes Termos de Serviço e assina um contrato vinculativo com a Fever quer quando se inscreve numa conta registada ao clicar em "Inscrever-se", "Inscrever-se agora", "Começar", "Criar o seu evento" ou botões semelhantes, ou se você é um cliente não registado, quando compra um bilhete ou se regista para um evento (incluindo eventos gratuitos) ou compra uma mercadoria, um serviço ou faz uma doação relacionada com um evento, em cada caso, clicando em "Pagar Agora", "Inscrever-se Agora", "Comprar Agora", "Comprar", "Entrar" ou botões semelhantes, ou de acordo com a Secção 3,2 abaixo. No caso de a Política de Privacidade não ter sido expressamente aceite por si, enquanto utilizador registado, a FEVER apenas processará quaisquer dados pessoais que sejam necessários para fornecer os Serviços. Se você não concordar com qualquer parte destes Termos de Serviço, não use ou acesse os Serviços. Se você estiver usando os Serviços em nome de uma entidade, você concorda com estes Termos de Serviço em nome dessa entidade e de suas afiliadas e você declara que tem autoridade para fazê-lo. Nesse caso, "você" e "seu" referem-se a essa entidade. Se você não tiver essa autoridade, ou se você não concordar com qualquer parte destes Termos de Serviço, não use ou acesse os Serviços.
+
+ESTES TERMOS DE SERVIÇO INCLUEM (A) UMA DISPOSIÇÃO DE ARBITRAGEM PARA OS UTILIZADORES LOCALIZADOS NOS ESTADOS UNIDOS; (B) UMA RENÚNCIA AOS DIREITOS DE INTENTAR UMA AÇÃO COLETIVA CONTRA A Fever PARA OS UTILIZADORES LOCALIZADOS NOS ESTADOS UNIDOS; (C) CERTAS GARANTIAS EM NOME DA FEVER; (D) CERTAS LIMITAÇÕES DE RESPONSABILIDADE EM BENEFÍCIO DA Fever; E (E) A LIBERAÇÃO POR VOCÊ DE TODAS AS REIVINDICAÇÕES DE DANOS CONTRA A Fever DECORRENTES DE DISPUTAS ENTRE VOCÊ E TERCEIROS EM CONEXÃO COM O USO DOS SERVIÇOS. AO USAR QUALQUER UM DOS SERVIÇOS, VOCÊ CONCORDA COM ESTAS DISPOSIÇÕES.
+
+
+
+
+ Modificações
+
+
+Exceto na extensão estabelecida na Secção 6,10(i) abaixo, a Fever reserva-se o direito, a seu exclusivo critério, de modificar ou substituir qualquer um dos termos ou condições destes Termos de Serviço (ou qualquer um dos acordos que compõem estes Termos de Serviço) a qualquer momento (coletivamente, "modificações"). As modificações a estes Termos de Serviço serão publicadas no site da Fever com uma alteração à data "atualizada" no topo destes Termos de Serviço. Em certas circunstâncias, a Fever pode fornecer-lhe um aviso adicional de tais modificações, por e-mail ou com notificações no Serviço. As modificações entrarão em vigor mais cedo de qualquer data estabelecida por Lei ou trinta e (30) dias após a data "Atualizada" ou qualquer outra data conforme comunicado em qualquer outro aviso a você, exceto que as alterações que abordam novas funções dos Serviços ou que não imponham quaisquer encargos ou obrigações adicionais sobre si serão imediatamente eficazes. A Fever informá-lo-á sempre de quaisquer alterações que possam afetar o uso ou processamento dos seus Dados Pessoais. O seu uso continuado dos Serviços após a eficácia de quaisquer modificações a estes Termos de Serviço constitui também a aceitação dessas modificações. Se qualquer modificação destes Termos de Serviço não for aceitável para você, você deve deixar de acessar, navegar e usar os Serviços. Além do estabelecido neste parágrafo, estes Termos de Serviço só podem ser modificados através de um Contrato de Serviços de Ticketing por escrito ou de um Contrato de Adendo por escrito
+
+, Assinado por você e por um oficial autorizado da Fever.
+
+
+
+ Linguagem
+
+
+Podemos traduzir estes Termos de Serviço (ou qualquer um dos acordos que compõem estes Termos de Serviço) para outros idiomas para sua conveniência. A versão em inglês de cada um destes documentos é a versão que rege o uso dos Serviços e, em caso de conflito entre a versão em inglês e uma versão traduzida, a versão em inglês controlará.
+
+
+
+
+ Termo; Rescisão
+
+
+Termo
+
+
+Estes Termos de Serviço entram em vigor após a sua aceitação, conforme estabelecido na Secção 3,1 acima e continuam em vigor até serem terminados.
+
+
+
+ Terminação por Fever
+
+Exceto na medida em que tenhamos concordado de outra forma num Acordo de Adendo por escrito separado ou num Acordo de Serviços de Ticketting entre o utilizador e um oficial autorizado da Fever, a Fever poderá terminar o seu direito de usar os Serviços a qualquer momento por (a) a sua violação ou violação destes Termos de Serviço; (B) O seu uso indevido ou abuso dos Serviços; ou (c) se permitir que você acesse e use os Serviços violaria quaisquer leis, regras e regulamentos locais, estaduais, provinciais, nacionais e outras leis, regras e regulamentos aplicáveis ou exporá Fever a responsabilidade legal. Faremos todos os esforços razoáveis para lhe fornecer uma notificação de tal rescisão. Além disso, você concorda que a Fever não será responsável perante você ou qualquer terceiro por qualquer rescisão do seu direito de usar ou de outra forma acessar os Serviços.
+
+O encerramento da sua conta implicará a eliminação, por Fever, de todos os seus Dados Pessoais.
+
+
+
+ Encerramento por você
+
+
+Exceto na medida em que tenha concordado de outra forma num Acordo de Adendo por escrito separado ou num Acordo de Serviços de Ticketting entre si e um oficial autorizado da Fever, pode encerrar o seu acesso aos Serviços e a estes Termos de Serviço eliminando a sua conta. Os clientes podem cancelar a sua conta contactando um escritório da Fever por telefone ou e-mail através de um dos endereços ou números estabelecidos na Secção
+
+6,7. Os organizadores de eventos, exceto aqueles que podem ter celebrado um Serviço de bilheteira separado ou um Acordo de Parceria (onde se aplicam as cláusulas nele indicadas), também podem cancelar a sua conta dirigindo-se a um dos contactos aqui estabelecidos.
+
+No caso de existir um acordo separado entre o utilizador e a Fever que rege a sua utilização dos Serviços e esse acordo termina ou expira, estes Termos de Serviço (como não modificados Por esse acordo) regerá o uso dos Serviços a menos que e até que você cancele a sua conta.
+
+
+
+ Sobrevivência dos termos
+
+
+Todas as disposições destes Termos de Serviço que, pela sua natureza, devam sobreviver à rescisão destes Termos de Serviço sobreviverão (incluindo, sem limitação, todas as limitações de responsabilidade, libertações, obrigações de indemnização, isenções de garantias, acordos de arbitragem, escolhas de direito e fórum judicial e proteções e licenças de propriedade intelectual.
+
+
+
+ Termos especiais para uso internacional
+
+
+Leis de exportação DOS EUA
+
+
+Os Serviços estão sujeitos aos controlos de exportação dos Estados Unidos e às leis de sanções económicas. Ao aceitar estes Termos de Serviço, você declara e garante que: (a) Você não está localizado em, e você não é um nacional ou residente de, qualquer país para o qual os Estados Unidos, Reino Unido, União Europeia, Austrália ou Canadá tenham embargado bens e/ou serviços do mesmo tipo que os Serviços ("Países restritos"), incluindo, sem limitação, Cuba, Irão, Coreia do Norte, Sudão ou Síria; e (b) Você não é uma pessoa ou entidade, ou pertence a, sob o controle ou afiliada a, uma pessoa ou entidade (i) que aparece no
+
+Lista de cidadãos especialmente designados do Gabinete de Controlo de Bens Estrangeiros dos EUA, Lista de evaders de Sanções Estrangeiros ou Lista do Conselho Legislativo Palestiniano; (ii) que aparece na Lista de Exclusão Terrorista do Departamento de Estado dos EUA; (iii) que aparece na Lista de Pessoas Negadas, Entidades ou Lista Não Verificada do Gabinete da Indústria e da Segurança; (IV) que aparece na Lista Consolidada de Metas publicada pelo Tesouro do Reino Unido; (V) que aparece na Lista Consolidada publicada pelo Departamento de Negócios Estrangeiros e Comércio da A.U.; (VI) que está sujeito a sanções em qualquer outro país; ou vii) que esteja envolvida na conceção, desenvolvimento ou produção de armas nucleares, biológicas ou químicas, mísseis ou veículos aéreos não tripulados.
+
+
+
+Termos legais importantes que regem todo o uso dos Serviços
+
+Indemnização
+
+
+Você concorda em defender, indemnizar e manter a Fever, e suas afiliadas e subsidiárias, e cada um dos seus e respetivos
+
+diretores, agentes, co-branders, licenciadores, parceiros de processamento de pagamentos, outros parceiros e empregados, inofensivos de todo e qualquer dano (direto, indireto, incidental, consequencial ou de outra forma), perda, responsabilidade, custo e despesa (incluindo, sem limitação, honorários razoáveis de advogados e contabilidade) resultantes de qualquer reivindicação, demanda, processo, processo (seja perante um árbitro, tribunal, mediador ou de outra forma) ou investigação feita por qualquer terceiro (cada um uma uma "reivindicação") devido ou resultante de: (a) a violação destes Termos de Serviço, incluindo, sem limitação, os Termos de Uso, o Contrato Comercial e qualquer outra parte destes Termos de Serviço; (b) o uso indevido dos Serviços; (c) a violação de qualquer lei, regra ou regulamento local, estadual, provincial, nacional ou outra lei aplicável ou dos direitos de terceiros; ou (d) no caso dos Organizadores do evento, dos seus eventos ou do facto de a Fever estar a prestar Serviços em relação a esses eventos, desde que, no caso de (d), esta indemnização não se aplique na medida em que a alegação surja por negligência grosseira ou má conduta intencional da Fever. A Fever deverá notificar-lhe qualquer reclamação, desde que a falha ou atraso da Fever em fornecer tal notificação não limitará as suas obrigações aqui descritas, exceto na medida em que você esteja materialmente em desvantagem por tal falha.
+
+
+
+ Isenção de garantias
+
+
+A FEVER FORNECE OS NOSSOS SERVIÇOS USANDO UM NÍVEL COMERCIALMENTE RAZOÁVEL DE HABILIDADE E CUIDADO E TENTAMOS MANTER A Fever A CORRER, LIVRE DE ERROS E SEGURA. MAS HÁ CERTAS COISAS QUE NÃO PROMETEMOS SOBRE OS NOSSOS SERVIÇOS E VOCÊ USA OS SERVIÇOS POR SUA CONTA E RISCO. NA MEDIDA DO PERMITIDO PELAS LEIS APLICÁVEIS, OS SERVIÇOS SÃO FORNECIDOS "TAL COMO ESTÃO" E "CONFORME DISPONÍVEIS". A FEVER EXCLINA EXPRESSAMENTE TODAS AS GARANTIAS DE QUALQUER TIPO, EXPRESSAS OU IMPLÍCITAS, INCLUINDO, MAS NÃO LIMITADAS A, GARANTIAS IMPLÍCITAS DE COMERCIALIZAÇÃO, TÍTULO, NÃO VIOLAÇÃO E ADEQUAÇÃO A UM PROPÓSITO ESPECÍFICO. A TÍTULO DE EXEMPLO, A FEVER NÃO GARANTE QUE (A) OS SERVIÇOS (OU QUALQUER PARTE DOS SERVIÇOS) VÃO SATISFAZER AS SUAS NECESSIDADES OU
+
+EXPECTATIVAS; (B) OS SERVIÇOS SERÃO ININTERRUPTOS, ATEMPADOS, SEGUROS OU LIVRES DE ERROS; OU (C) OS RESULTADOS QUE PODEM SER OBTIDOS A PARTIR DO USO DOS SERVIÇOS SERÃO PRECISOS OU CONFIÁVEIS. VOCÊ RECONHECE QUE A Fever NÃO TEM CONTROLE E NÃO GARANTE A QUALIDADE, SEGURANÇA OU LEGALIDADE DOS EVENTOS ANUNCIADOS, A VERDADE OU A PRECISÃO DOS CONTEÚDOS OU LISTAS DE QUALQUER USUÁRIO (INCLUINDO CLIENTES, OUTROS NÃO ORGANIZADORES E ORGANIZADORES) OU A CAPACIDADE DE QUALQUER USUÁRIO (INCLUINDO  CLIENTES E  ORGANIZADORES)    EXECUTAR  OU NA VERDADE, CONCLUIR UMA TRANSAÇÃO E A FEVER NÃO ESTÁ AFILIADA, E NÃO TEM NENHUMA AGÊNCIA OU RELAÇÃO DE EMPREGO COM QUALQUER PRESTADOR DE SERVIÇOS TERCEIRIZADO USADO EM CONJUNTO COM OS SERVIÇOS, E A FEVER NÃO TEM NENHUMA RESPONSABILIDADE POR, E, POR MEIO DESTE, ISENTAM TODA A RESPONSABILIDADE QUE ADVÉM DOS ATOS OU OMISSÕES DE TAIS TERCEIROS. NADA NESTES TERMOS DE SERVIÇO DESTINA-SE A EXCLUIR OU LIMITAR QUALQUER CONDIÇÃO, GARANTIA, DIREITO OU RESPONSABILIDADE QUE NÃO POSSA SER LEGALMENTE EXCLUÍDA OU LIMITADA. ALGUMAS JURISDICIONES NÃO PERMITEM A EXCLUSÃO DE CERTAS GARANTIAS OU CONDIÇÕES OU A LIMITAÇÃO OU EXCLUSÃO DE RESPONSABILIDADE POR PERDAS OU DANOS CAUSADOS POR ATOS DOLOROSOS, NEGLIGENCE, VIOLAÇÃO DE CONTRATO OU VIOLAÇÃO DE TERMOS IMPREVISTOS, OU DANOS INCIDENTAIS OU CONSEQUENTES. ASSIM, APENAS AS RESPONSABILIDADE E OUTRAS LIMITAÇÕES QUE SÃO LEGAIS NA SUA JURISDIÇÃO (SE HOUVER) SERÃO APLICADAS A VOCÊ E A NOSSA RESPONSABILIDADE É LIMITADA À EXTENSÃO MÁXIMA PERMITIDA POR LEI.
+
+
+
+ Limitação de responsabilidade
+
+
+NA MEDIDA PERMITIDA PELAS LEIS APLICÁVEIS, FEVER, E SUAS AFILIADAS E SUBSIDIÁRIAS, E CADA UM DE SEUS E SEUS RESPETIVOS DIRETORES, DIRETORES, AGENTES, CO-BRANDERS, LICENSORS, OS PARCEIROS DE PROCESSAMENTO DE PAGAMENTOS, OUTROS PARCEIROS, EMPREGADOS E QUAISQUER ESQUEMAS DE CARTÕES APLICÁVEIS, NÃO SERÃO RESPONSÁVEIS EM NENHUMA CIRCUNSTÂNCIA OU SOB QUALQUER TEORIA LEGAL, SEJA EM TART, CONTRATO, OU DE OUTRA FORMA, EM RELAÇÃO AOS SERVIÇOS, OU QUALQUER OUTRO ASSUNTO DESTES TERMOS DE SERVIÇO, INCLUINDO, SEM LIMITAÇÃO, OS TERMOS DE USO, O CONTRATO COMERCIAL E QUALQUER OUTRA PARTE DESTES TERMOS DE SERVIÇO, PARA:
+
+(A) QUALQUER DANO INDIRETO, INCIDENTAL, ESPECIAL, SEQUENTIAL, PUNITIVE OU EXEMPLAR, INCLUINDO, MAS NÃO LIMITADO A, DANOS POR PERDA DE LUCROS, GOODWILL, USO, DADOS OU OUTRAS PERDAS INTANGÍVEIS (MESMO QUE A Fever TENHA SIDO AVISADA DA POSSIBILIDADE DE TAIS DANOS), (B) O CUSTO DE AQUISIÇÃO DE SERVIÇOS SUBSTITUTOS, (C) QUALQUER CONTEÚDO DO UTILIZADOR (CONFORME DEFINIDO NOS TERMOS DE UTILIZAÇÃO) OU QUALQUER CONTEÚDO DE QUALQUER OUTRO UTILIZADOR DOS SERVIÇOS, OU (D) QUAISQUER ASSUNTOS ALÉM DO CONTROLO RAZOÁVEL DA FEVER. ALÉM DISSO, PARA ALÉM DA OBRIGAÇÃO DA FEVER DE PAGAR AS TAXAS DE REGISTO DE EVENTOS A CERTOS ORGANIZADORES AO ABRIGO DO CONTRATO DO ESTABELECIMENTO, A RESPONSABILIDADE TOTAL MÁXIMA DA FEVER, OS SEUS PARCEIROS DE PROCESSAMENTO DE PAGAMENTOS, A LICENSORS E QUAISQUER ESQUEMAS DE CARTÕES APLICÁVEIS POR TODOS OS DANOS, PERDAS, RESPONSABILIDADES, CUSTOS E DESPESAS AO ABRIGO DO QUALQUER TEORIA LEGAL, SEJA EM TORT, CONTRATO, OU DE OUTRA FORMA, NO QUE DIZ RESPEITO, DECORRENTES OU RELACIONADOS COM OS SERVIÇOS, OU QUALQUER OUTRO ASSUNTO DESTES TERMOS DE SERVIÇO, INCLUINDO, SEM LIMITAÇÃO, OS TERMOS DE USO, O CONTRATO COMERCIAL E QUALQUER OUTRA PARTE DESTES TERMOS DE SERVIÇO, ESTARÃO LIMITADOS A (I) PARA ORGANIZADORES DE EVENTOS COM BILHETES OU REGISTOS PAGOS, E SUJEITO AOS TERMOS DO CONTRATO DE COMERCIANTE, AS COMISSÕES (SEM TAXAS DE PROCESSAMENTO DE PAGAMENTO DA Fever) QUE A FEVER LHE COBROU NO PERÍODO DE TRÊS (3) MESES IMEDIATAMENTE ANTERIOR ÀS CIRCUNSTÂNCIAS QUE DERAM ORIGEM À SUA RECLAMAÇÃO; E (II) PARA ORGANIZADORES DE EVENTOS APENAS COM BILHETES GRATUITOS, ORGANIZADORES DE EVENTOS PROMOVIDOS ATRAVÉS DE UM LINK DE COMISSÃO DE 0%, CLIENTES E OUTROS UTILIZADORES, (1) O MONTANTE TOTAL DE TODOS OS BILHETES OU REGISTOS QUE COMPROU OU FEZ ATRAVÉS DOS SERVIÇOS NO PERÍODO DE TRÊS (3) MESES IMEDIATAMENTE ANTERIOR ÀS CIRCUNSTÂNCIAS QUE DERAM ORIGEM À SUA RECLAMAÇÃO; OU
+
+(2) SE NÃO FIZESTE TAIS COMPRAS, CEM
+
+DÓLARES AMERICANOS (100 DÓLARES AMERICANOS).
+
+NADA NESTES TERMOS DE SERVIÇO DESTINA-SE A EXCLUIR OU LIMITAR QUALQUER CONDIÇÃO, GARANTIA, DIREITO OU RESPONSABILIDADE QUE NÃO POSSA SER LEGALMENTE EXCLUÍDA OU LIMITADA. ALGUMAS JURISDICIONES NÃO PERMITEM A EXCLUSÃO DE CERTAS GARANTIAS OU CONDIÇÕES OU A LIMITAÇÃO OU EXCLUSÃO DE RESPONSABILIDADE POR PERDAS OU DANOS CAUSADOS POR ATOS DOLOROSOS, NEGLIGENCE, VIOLAÇÃO DE CONTRATO OU VIOLAÇÃO DE TERMOS IMPREVISTOS, OU DANOS INCIDENTAIS OU CONSEQUENTES. ASSIM, APENAS AS RESPONSABILIDADE E OUTRAS LIMITAÇÕES QUE SÃO LEGAIS NA SUA JURISDIÇÃO (SE HOUVER) SERÃO APLICADAS A VOCÊ E A NOSSA RESPONSABILIDADE É LIMITADA À EXTENSÃO MÁXIMA PERMITIDA POR LEI.
+
+
+
+ Libertar
+
+
+A Fever oferece um mercado no qual clientes e organizadores de eventos podem realizar transações. No entanto, a Fever não podia funcionar se fosse considerada responsável pelas ações ou inações de diferentes clientes, organizadores e/ou terceiros, dentro e fora dos Serviços. Portanto, como um incentivo à Fever permitindo que você acesse e use os Serviços, você concorda em libertar a Fever, suas afiliadas e subsidiárias, e cada um de seus e seus respetivos diretores, agentes, parceiros e funcionários de todos os danos (diretos, indiretos, incidentais, consequentes ou de outra forma), perdas, danos, danos, danos, danos, danos, danos, danos, danos, danos, responsabilidades, custos e despesas de todos os tipos e natureza, conhecidas e desconhecidas, decorrentes ou de qualquer forma relacionadas com disputas entre você e terceiros (incluindo outros utilizadores) em conexão com os Serviços ou qualquer evento listado nos Serviços. Além disso, você renuncia a qualquer lei ou estatuto aplicável, que diga, in
+
+SUBSTÂNCIA: "UMA LIBERTAÇÃO GERAL NÃO SE ESTENDE A REIVINDICAÇÕES QUE A PARTE LIBERADORA NÃO SABE OU SUSPEITA QUE EXISTAM A SEU FAVOR NO MOMENTO DA EXECUÇÃO DA LIBERTAÇÃO, QUE, SE CONHECIDA POR ELE, DEVE TER AFETADO MATERIALMENTE O SEU ACORDO COM A PARTE LIBERTADA."
+
+
+
+
+ Marcas comerciais
+
+
+As marcas comerciais, marcas de serviço e logotipos da Fever (as "Marcas Fever") usadas e exibidas em conexão com os Serviços são marcas registradas e não registradas ou marcas de serviço da Fever. Outros nomes de empresas, produtos e serviços usados em conexão com os Serviços podem ser marcas comerciais ou marcas de serviço de propriedade de terceiros (as "Marcas de terceiros", e, coletivamente, com as Marcas de Fever, as "Marcas"). A oferta dos Serviços não deve ser interpretada como concedendo, por implicação, preclusão, ou de outra forma, qualquer licença ou direito de usar qualquer marca exibida em conexão com os Serviços sem o consentimento prévio por escrito da FEVER específico para cada uso. As marcas não podem ser usadas para depreciar a Fever, qualquer terceiro ou produtos ou serviços da Fever ou de terceiros, ou de qualquer forma que possa danificar qualquer boa vontade nas marcas. O uso de quaisquer marcas comerciais como parte de um link para ou de qualquer site é proibido, a menos que a Fever aprove o estabelecimento de tal link por consentimento prévio por escrito específico para cada link. Toda a boa vontade gerada a partir do uso de qualquer marca de Fever deve beneficiar a Fever.
+
+
+
+ Patentes; Direitos de autor
+
+
+Uma série de patentes emitidas e patentes pendentes aplicam-se aos Serviços. O conteúdo (conforme definido nos Termos de Uso) dos Serviços também é protegido por direitos autorais de propriedade da Fever e/ou terceiros. Por favor, note que se copiar partes dos Serviços está a violar estes direitos de patente e direitos de autor.
+
+
+
+ Avisos
+
+
+Os avisos podem ser enviados por e-mail ou correio normal para o endereço nos registos da Fever. Os Serviços também podem fornecer avisos de alterações a estes Termos de Serviço ou outros assuntos, mostrando avisos ou links para avisos para você geralmente nos Serviços. Se você quiser entrar em contato com a Fever ou enviar qualquer aviso, pode fazê-lo da seguinte forma:
+
+Por correio:
+-Estados Unidos:
+
+Fever Labs, Inc
+
+50 Greene St 3 Fl, New York, NY 10013, US
+
+
+-Europa:
+
+Calle de Fernando el Santo 16, Madrid 28010, Madrid, Espanha
+
+Por e-mail:
+hello@feverup.com; hola@feverup.com , ola@feverup.com,  salut@feverup.com
+
+
+Por favor, note que qualquer aviso relacionado com questões de dados pessoais deve ser tratado nos termos estabelecidos  na Política de Privacidade
+
+
+
+ Todo o acordo
+
+
+Estes Termos de Serviço, incluindo os Termos de Uso, o Contrato Comercial, a Política de Privacidade e qualquer outra parte destes Termos de Serviço, constituem o acordo integral entre você e a Fever e regem o uso dos Serviços, substituindo quaisquer acordos, propostas anteriores ou contemporâneos, discussões ou comunicações entre você e a Fever sobre o assunto aqui descrito, exceto qualquer Acordo de Serviços de Ticketing por escrito, Acordo de Leasing de Fever Equipment ou Acordo de Adenda entre você e um oficial autorizado da Fever relacionado a um evento ou eventos específicos.
+
+
+
+
+ Escolha da Lei
+
+
+Exceto conforme estabelecido na Seção 6,10 abaixo, estes Termos de Serviço e a prestação dos Serviços a você são governados pelas leis do estado de Nova York, EUA, sem referência aos princípios de conflito de leis.
+
+
+
+ ARBITRAGEM VINCULATIVA
+
+APENAS PARA UTILIZADORES LOCALIZADOS NOS ESTADOS UNIDOS:
+
+POR FAVOR, LEIA ESTA SECÇÃO CUIDADOSAMENTE PORQUE AFETA OS SEUS DIREITOS. QUALQUER DISPUTA OU RECLAMAÇÃO AO ABRIGO DESTES TERMOS DE SERVIÇO OU COM RELAÇÃO AOS SERVIÇOS SERÁ RESOLVIDA POR ARBITRAGEM VINCULATIVA OU EM TRIBUNAL DE PEQUENAS CAUSAS (NA MEDIDA EM QUE A RECLAMAÇÃO SE QUALIFIQUE) E TERÁ LUGAR APENAS NUMA BASE INDIVIDUAL; AS ARBITRAGENS COLETIVAS, CONSOLIDADAS OU REPRESENTATIVAS E AS AÇÕES CIVIS NÃO SÃO PERMITIDAS QUANDO ESTA SECÇÃO FOR EFICAZ
+
+Contacte -nos primeiro
+Se tiver alguma questão ou preocupação sobre os Serviços, contacte-nos primeiro. A nossa equipa de apoio ao cliente tentará responder à sua pergunta ou resolver a sua preocupação.
+
+Acordo de Arbitragem
+No caso improvável de a nossa equipa de apoio ao cliente não poder resolver as suas preocupações, todos nós concordamos em resolver todas e quaisquer disputas ou reclamações ao abrigo destes Termos de Serviço ou em relação aos Serviços através de arbitragem vinculativa ou em tribunal de pequenas causas (na medida em que a reivindicação se qualifica) em vez de nos tribunais de jurisdição geral e apenas individualmente e não como parte de qualquer suposta classe, processo consolidado ou representativo. A arbitragem, que é muitas vezes mais barata, mais rápida e menos formal do que uma ação judicial, usa um árbitro neutro em vez de um juiz ou júri. Os árbitros podem conceder os mesmos danos e alívio que um tribunal. A arbitragem vinculativa está sujeita a revisão muito limitada. Apenas o árbitro nomeado de acordo com esta Seção, e não qualquer tribunal ou agência federal, estadual ou local, terá autoridade para resolver qualquer disputa ou reivindicação relacionada a esta Seção, incluindo, sem limitação, o âmbito, a executoriedade e a arbitrabilidade destes Termos de Serviço. Esta disposição de arbitragem sobreviverá à rescisão destes Termos de Serviço. Estes Termos de Serviço comprovam uma transação no comércio interestadual e a interpretação e aplicação desta Secção 6,10 são regidas pela Lei Federal de Arbitragem, não obstante a escolha da lei estabelecida na Secção 6,9 acima.
+
+Âmbito do Acordo
+Este acordo de arbitragem destina-se a ser interpretado de forma ampla. Inclui, mas não se limita a: (I) todas as reclamações decorrentes ou relacionadas com qualquer aspeto da relação entre nós, seja com base em contrato, ato ilícito, estatuto, fraude, representação errada ou qualquer outra teoria legal; (II) todas as reclamações que surgiram antes deste ou de qualquer acordo anterior (incluindo, mas não limitado a, reclamações relacionadas com publicidade); e (iii) todas as reclamações que possam surgir após a rescisão destes Termos de Serviço e/ou o uso dos Serviços. D) Exceções
+
+Não obstante o presente Acordo de arbitragem, qualquer das partes pode
+
+(i) intentar uma ação individual em tribunal de pequenas causas (na medida em que a reclamação aplicável se qualifique), (ii) chamar a atenção de órgãos federais, estaduais ou locais que possam ser capazes
+
+procurem uma medida em nome de uma parte, e (iii) tragam uma ação judicial para procurarem uma liminar ou outra medida provisória, enquanto se aguarda o resultado da arbitragem. Além disso, a parte de qualquer disputa ou reclamação relacionada com a nossa participação nos Frameworks Safe Harbor EUA-UE ou EUA-Suíça está sujeita à seção de Resolução de Disputas da nossa Política de Privacidade antes de estar sujeita a esta Seção.
+
+Sem ações de classe.
+VOCÊ E A FEVER CONCORDAM QUE CADA UM PODE APRESENTAR REIVINDICAÇÕES CONTRA O OUTRO APENAS EM SUA CAPACIDADE INDIVIDUAL, E NÃO COMO UM PLAINTIFF OU MEMBRO DA CLASSE EM QUALQUER SUPOSTA CLASSE, PROCESSO CONSOLIDADO OU REPRESENTATIVO. O ÁRBITRO NÃO  PODE CONSOLIDAR    MAIS DO QUE  UMA  PESSOA RECLAMAÇÕES, NÃO PODEM PRESIDIR A QUALQUER FORMA DE PROCESSO DE CLASSE, CONSOLIDADO OU REPRESENTATIVO E SÓ PODEM PROPORCIONAR ALÍVIO EM FAVOR DA PARTE INDIVIDUAL QUE PROCURA ALÍVIO E APENAS NA MEDIDA NECESSÁRIA PARA FORNECER ALÍVIO JUSTIFICADO PELA REIVINDICAÇÃO INDIVIDUAL DESSA PARTE.
+
+Aviso de litígio.
+Uma parte que pretenda recorrer à arbitragem deve primeiro enviar à outra uma notificação por escrito ("Notificação"). O aviso para Fever deve ser endereçado ao endereço na Seção 6,7 acima ("Endereço de notificação") e deve ser enviado por correio certificado. O aviso a você deve ser enviado para um endereço de correspondência, casa ou pagamento atualmente em registo com Fever e deve ser enviado por correio certificado. Se a Fever não tiver registos desse endereço físico, tal notificação pode ser entregue no endereço de e-mail da sua conta da Fever. A Notificação deve (i) descrever a natureza e a base da reivindicação ou disputa; e (ii) definir a medida específica solicitada. Se a Fever e o utilizador não chegarem a um acordo para resolver a reclamação no prazo de sessenta e (60) dias corridos após a receção do aviso, o utilizador ou a Fever podem iniciar um processo de arbitragem.
+
+Procedimentos de arbitragem.
+A arbitragem será regida pelas Regras de Arbitragem Comercial, ou, se as ações que dão origem à disputa ou reivindicação se relacionarem com o uso pessoal ou familiar dos Serviços (em vez de uso comercial), as Regras de Arbitragem do Consumidor (em cada caso, as "Regras AAA") da Associação Americana de Arbitragem ("AAA"), conforme modificado por esta Seção 6,10, e será administrado pela AAA e resolvido por um único árbitro. As Regras AAA estão disponíveis online em adr.org ou ligando para a AAA em 1-800-778-7879. O árbitro está sujeito aos termos destes Termos de Serviço. Todas as questões são para o árbitro decidir, incluindo, mas não se limitando a, questões relacionadas com o âmbito, a executoriedade e a arbitrabilidade desta Secção 6,10. A menos que a FEVER e o utilizador concordem em contrário, quaisquer audiências de arbitragem terão lugar num local razoavelmente conveniente nos Estados Unidos para ambas as partes, tendo devidamente em conta a sua capacidade de viajar e outras circunstâncias relevantes. Se as partes não conseguirem chegar a acordo sobre um local, a AAA determinará o local. Se a sua reivindicação for de dez mil dólares (10 000 dólares) ou menos, nós concordamos que você pode escolher se a arbitragem será conduzida apenas com base em documentos submetidos ao árbitro, através de uma audiência telefónica, ou por uma audiência presencial, conforme estabelecido pelas Regras da AAA. Se a sua reclamação ultrapassar os dez mil dólares (10 000 dólares), o direito a uma audiência será determinado pelas Regras AAA. Independentemente da forma como a arbitragem é conduzida, o árbitro deve emitir uma decisão escrita fundamentada suficiente para explicar as conclusões e conclusões essenciais em que a sentença se baseia. Todas as decisões do árbitro serão finais e vinculativas e o julgamento sobre a sentença proferida pode ser feito em qualquer tribunal com jurisdição.
+
+Custos de arbitragem; Tarifas legais.
+O pagamento de todos os custos e despesas de apresentação, administração e árbitro impostos pela AAA será regido pelas regras da AAA, desde que, se você estiver iniciando uma arbitragem contra a Fever e o valor da medida solicitada for de dez mil dólares (10 000 dólares) ou menos, então a FEVER irá avançar todos os custos de depósito, administrativos e de arbitragem e despesas impostas pela AAA (sujeito a reembolso, conforme estabelecido abaixo). Se as circunstâncias da sentença anterior se aplicarem, mas o valor da reparação solicitada for superior a dez mil dólares (10 000 dólares) e demonstrar ao árbitro que tais custos e despesas seriam proibitivamente mais caros do que um processo judicial, então, a Fever irá pagar o montante de quaisquer custos e despesas que o árbitro determinar serem necessários para impedir que a arbitragem seja proibitivamente mais cara do que um processo judicial (sujeito a reembolso, conforme estabelecido abaixo). No caso de o árbitro determinar que todas as reivindicações que você afirma na arbitragem são frívolas de acordo com a Regra Federal de Processo Civil 11, você concorda em reembolsar a Fever por todos os custos e despesas que a Fever pagou e que você teria sido obrigado a pagar de acordo com as regras da AAA.
+Tal como em qualquer processo judicial, cada uma das partes suportará inicialmente os seus honorários e despesas de advogados relacionados com qualquer arbitragem. Se uma das partes for determinada a ter prevalecido substancialmente na arbitragem, então, mediante solicitação dessa parte, o árbitro deverá atribuir a essa parte prevalecente os honorários e despesas razoáveis dos advogados que incorreu em relação à arbitragem, desde que, na medida em que a disputa ou reivindicação se relacionem com o uso pessoal ou familiar dos Serviços (em vez de uso comercial), a Fever não buscará recuperar os honorários e despesas de advogados em uma arbitragem iniciada por você. O árbitro pode tomar decisões e resolver disputas quanto ao reembolso de honorários e despesas de advogados, mediante solicitação de qualquer das partes feitas no prazo de catorze anos
+(14) dias da decisão do árbitro sobre os méritos.
+
+Mudanças futuras.
+Não obstante qualquer disposição em contrário nestes Termos de Serviço, o utilizador e a Fever concordam que, se a Fever fizer qualquer alteração futura nesta disposição de arbitragem (que não a A.
+
+A Fever irá fornecer-lhe um aviso de tal alteração e poderá rejeitar tal alteração enviando-nos um aviso por escrito no prazo de trinta (30) dias corridos a partir da alteração do endereço de aviso acima. Ao rejeitar qualquer alteração futura, você concorda que irá arbitrar qualquer disputa entre nós de acordo com o idioma desta disposição como não modificada por essa alteração rejeitada.
+
+Separação especial.
+No caso de as disposições da Cláusula 6,10(e) acima serem consideradas inválidas ou inexequíveis para qualquer disputa ou reivindicação, então, não obstante a Cláusula 6,11, a totalidade desta Cláusula
+
+6,10 será nulo e nulo em relação a tal disputa ou reclamação e a Secção 6,12 será aplicável em vez da presente Secção 6,10.
+
+
+
+ Isenção; Provisões Inválidas
+
+A falha ou atraso da Fever em exercer ou fazer cumprir qualquer direito ou disposição destes Termos de Serviço não constituirá uma renúncia a tal direito ou disposição. Nenhuma renúncia oral, alteração ou modificação será eficaz em qualquer circunstância. Se qualquer disposição destes Termos de Serviço for considerada nula por um árbitro ou tribunal de jurisdição competente, as partes concordam que o árbitro ou tribunal deve tentar dar efeito às intenções das partes, conforme refletido na disposição, e as outras disposições destes Termos de Serviço permanecerão em pleno vigor e efeito.
+
+
+
+ Fórum Judicial
+
+
+No caso de o Acordo de Arbitragem acima não se aplicar a si ou a uma determinada reclamação ou disputa por qualquer motivo, em seguida, qualquer disputa ou reivindicação não sujeita a arbitragem será resolvida exclusivamente por um tribunal federal localizado na cidade de Nova Iorque, Nova Iorque, e na medida em que não haja jurisdição de matéria nesse tribunal federal, então um tribunal estadual no Estado de Nova Iorque. Tanto você como a Fever concordam em submeter-se à jurisdição pessoal e ao local de tais tribunais e concordam que esse fórum é conveniente.
+
+
+
+ Títulos
+
+
+Quaisquer títulos de Secção nestes Termos de Serviço são apenas para conveniência e não têm qualquer efeito legal ou contratual.
+
+
+
+ Violações
+
+
+Por favor, denuncie quaisquer violações destes Termos de Serviço por e-mail. Para qualquer questão relacionada com questões de proteção de dados, por favor, use qualquer um dos meios incluídos  na Política de Privacidade .
+
+
+
+ Relação
+
+
+Nenhuma relação independente de empreiteiro, agência, parceria, joint venture, empregador-empregado ou franqueador-franqueado é destinada ou criada por estes Termos de Serviço, exceto na extensão expressamente estabelecida nos Termos de Uso e no Contrato Comercial.
+
+
+
+ANEXO
+
+QUINTO PROGRAMA DE COMPRA
+
+A quinta recompensa de compra é a opção de receber um vale depois de quatro compras pagas feitas por um utilizador para obter a quinta compra gratuitamente.
+A quinta recompensa de compra é oferecida PELA FEVER a utilizadores aleatórios específicos, não sendo obrigatória a oferta desta opção a todos os utilizadores da nossa plataforma.
+Estas quatro compras anteriores têm de ser feitas em eventos no mesmo país e os eventos têm de ter um preço superior a zero
+Esta recompensa é limitada a mil utilizadores.
+O valor do vale é igual à média dos preços pagos pelo utilizador nas suas quatro compras anteriores. Qualquer tipo de vale aplicado nas quatro compras anteriores não será levado em conta para calcular o valor do vale-prémio.
+Se o vale-prémio for aplicado, nenhuma das quatro compras anteriores poderá ser cancelada
+Os quatro bilhetes anteriores e o vale de recompensa obtido não são transferíveis
+Se alguma das quatro compras anteriores for eventualmente cancelada pelo utilizador, A FEVER pode cancelar o vale enviado ao utilizador
+9. A Fever tem o direito de cancelar esta promoção a qualquer momento.
+
+
+
+
+
+Acordo do comerciante
+
+ Quem somos
+ Aceitação do Contrato Comercial
+ Registo e segurança da conta
+ Processo de aceitação e pagamentos
+ Trocas e reembolsos
+ Remédios
+Comerciantes proibidos; Eventos proibidos; Transações proibidas
+ Usos permitidos do site
+ Dados do cliente
+ Isenção de responsabilidade
+ Limitação de responsabilidade
+ Indemnização
+ Marcas comerciais
+ Política de privacidade
+ Informações de contacto para o serviço de apoio ao cliente
+
+
+
+Quem somos
+
+
+O proprietário do site www.feverup.com  assim como o aplicativo (ou "aplicativo") é FEVER LABS, INC. (A seguir, Fever), Tin:99-0368536, registado em 50 Greene St 3 Fl, New York, NY 10013, Estados Unidos.
+
+Fever é uma aplicação web e móvel que leva os utilizadores a consumir entretenimento offline, fornecendo eventos selecionados com base na sua análise proprietária de dados de consumo. A Fever é capaz de gerar tráfego, gerar demanda e fornecer um caminho para a descoberta espontânea ou outros serviços de marketing para organizadores de eventos.
+
+Através da sua conta do portal Fever SEGURO, você (a seguir designado por "você", "o cliente", "o organizador do evento" ou "o utilizador") poderá criar e modificar as suas próprias listas de eventos, registar detalhes em dinheiro e ver relatórios de vendas de bilhetes. Sempre que houver modificações, estas terão de ser pré-aprovadas pela Fever antes de entrarem em vigor.
+
+
+
+ Aceitação do Contrato Comercial
+
+
+Os termos a seguir estabelecem os termos e condições em que você pode usar nossos Serviços para criar, promover e/ou recolher receitas de vendas da venda de bilhetes, inscrições ou outros itens (por exemplo, mercadoria; viagem; alojamento) relacionado com um evento, e aplica-se especificamente àqueles que usam os Serviços para tais fins. Exceto quando especificamente indicado (por exemplo: termos que se aplicam a esses organizadores de eventos no caso de registarem um evento através do nosso Link de Comissão de 0%) Os termos aqui incluídos aplicam-se a todos os organizadores de eventos que usem qualquer um dos Serviços da Fever ou que entrem em qualquer tipo de Serviço de Ticket ou Acordo de Parceria com a Fever.
+
+
+A Fever fornece a infraestrutura técnica para permitir as vendas online dos organizadores do evento. Se você continuar a navegar e usar este site, você está concordando em cumprir e sujeitar-se aos seguintes termos e condições de utilização, que a nossa empresa incorporou nos nossos Termos de Serviço e rege a relação da Fever com você em relação a este site e a qualquer uma das plataformas e serviços relacionados a ele e geridos pela Fever. Se você não concordar com qualquer parte destes termos e condições, por favor, não use o nosso site ou qualquer um dos Serviços Fever, participar de qualquer atividade, comprar ou vender qualquer bilhete, produto ou comprar qualquer outro serviço oferecido através do site ou qualquer uma das plataformas associadas.
+
+Reservamos o direito de, a todo o momento, descontinuar ou modificar este Contrato Comercial ou qualquer parte dele, a nosso exclusivo critério, com ou sem aviso prévio. Se nós fazemos alterações que afetam o seu uso do site ou dos nossos serviços, nós publicaremos um aviso sobre a alteração na página dos termos de serviços. Quaisquer alterações a estes Termos entrarão em vigor após a nossa publicação do aviso; desde que estas alterações não se apliquem a i) eventos criados ou ii) bilhetes vendidos antes da data efetiva de tais alterações. Você pode encerrar a sua conta e não deve usar o site ou qualquer um dos serviços oferecidos através do site após a data efetiva das alterações no caso de você não concordar com essas alterações. Você concorda que a publicação de avisos de tais alterações na página dos Termos de Serviço é um aviso adequado para informá-lo dessas alterações, e que o uso continuado do site ou de qualquer um dos serviços ou plataformas associados constituirá aceitação destas alterações e dos termos de uso modificados.
+
+
+Este Contrato Comercial e os direitos e obrigações aqui contidos são adicionais e estão incorporados nos Termos de Serviço por referência. Nada neste Contrato Comercial será considerado para modificar, renunciar, alterar ou revogar qualquer outro termo dos Termos de Serviço.
+
+
+
+Registo e segurança da conta
+
+
+Como parte da celebração de Acordos de Parceria ou Serviços de Ticketing ou como parte da criação de um evento ou a qualquer momento após essa criação, a Fever poderá ser obrigada a fornecer informações adicionais (para além das informações necessárias para se registar nos Serviços) sobre si mesmo, a entidade que você representa (se houver) e os diretores/beneficiários efetivos da entidade que você representa (se houver) (coletivamente, "Dados de Registro Adicionais"). Como exemplo, os Dados de Registo Adicionais podem incluir uma morada atual, nomes comerciais como (DBA), descrição dos produtos, endereço do website, conta bancária ou outra informação da conta de pagamento, números de identificação fiscal, data de nascimento, número de passaporte ou carta de condução, país de origem, cópias de documentos de identificação do governo e outras informações pessoais. Estas informações podem ser usadas para verificar a sua identidade, a validade e/ou a legalidade das suas transações e/ou se o utilizador se qualifica para usar os Serviços para eventos pagos. Você concorda em: (A) fornecer essas informações de forma atempada, precisa e completa e (b) manter e atualizar prontamente essas informações em tempo hábil para garantir que elas permanecem precisas e completas em todos os momentos. Se você fornecer qualquer informação que seja falsa, imprecisa, não atual ou incompleta, ou a Fever tem motivos razoáveis para suspeitar que tais informações são falsas, imprecisas, não atuais ou incompletas, a Fever tem o direito de suspender ou encerrar todas as suas contas e recusar todo e qualquer uso atual ou futuro da Fever.
+
+Durante o processo de registo da Fever, será criada uma conta e uma palavra-passe únicos. É da responsabilidade do organizador do evento e dos seus utilizadores manter a confidencialidade da palavra-passe e da conta e são totalmente responsáveis por todas as atividades que ocorrem na sua conta, incluindo, sem limitação, todas as ações de sub-utilizadores registados na sua conta. O organizador do evento deve notificar imediatamente a Fever de qualquer uso não autorizado da sua senha ou conta ou qualquer violação de segurança. A Fever não pode e não será responsável por qualquer perda, dano ou outra responsabilidade resultante da sua falha em cumprir com esta Secção ou de qualquer acesso não autorizado ou uso da sua Conta.
+
+
+
+ Processo de registo de eventos; pagamentos
+
+
+
+Visão geral
+Para evitar dúvidas, a Fever não fornece e não fornece serviços bancários, de depósito, de valor armazenado, de seguro ou de quaisquer outros serviços financeiros a um organizador de eventos que não seja servir como um agente de cobrança de pagamento limitado, conforme estabelecido abaixo. Para fornecer o Serviço EPP, a Fever utiliza gateways de terceiros, processadores de pagamento, adquirentes de comerciantes e/ou bancos adquirentes de comerciantes com os quais temos relações (coletivamente, "Parceiros de Processamento de Pagamentos") e os organizadores do evento e a Fever estão sujeitos às regras e regulamentos de tais Parceiros de Processamento de Pagamentos.
+
+
+
+Evento        Registo;        Além disso        integração        ligado        Aplicações de Fever
+
+Como parte dos Serviços oferecidos pela Fever, um organizador de eventos pode criar o seu próprio evento sem custos. Para este assunto, o organizador terá de partilhar algumas informações necessárias sobre o organizador e o evento, preenchendo um questionário online, "Criar o seu evento com Fever". O organizador terá de prosseguir para preencher todos os campos necessários no questionário para que o seu evento possa ser elegível para avaliação por Fever.
+
+Assim que o organizador do evento tiver apresentado o formulário "Criar o seu evento em Fever", a FEVER continuará a realizar o processo de validação, respondendo no prazo de 48 horas após a apresentação do formulário.
+
+O processo de validação por Fever pode resultar em duas respostas diferentes:
+
+A- Válido/Aceito: A Fever partilhará uma ligação com o organizador do evento (o "0% Commission Link") através do qual o organizador do evento poderá publicar e promover o evento através dos seus próprios meios. Todas as vendas conseguidas através do Commission Link de 0% não implicarão nenhuma comissão.
+
+
+A Fever reserva-se o direito, a seu exclusivo critério, de decidir se um evento está em conformidade com os padrões de qualidade e relevância da Fever, a fim de ser integrado e promovido nas aplicações ou em qualquer outra plataforma da Fever. No caso de a FEVER decidir promover o evento através da aplicação FEVER, da web ou da rede de media; a FEVER cobrará uma comissão de 30% ao organizador do evento, calculada sobre o valor total das vendas obtidas através das plataformas FEVER (esta comissão de 30%, juntamente com qualquer outra comissão, desconto, taxa, ou similar, acordado entre a FEVER e o organizador do evento, por escrito ou no âmbito de um Acordo de Serviços de bilhetes assinado ou Acordo de Parceria, constituirá, no total, a "Comissão").
+
+B- Rejeitado: A Fever entrará em contacto com o organizador do evento para lhe informar que o evento foi rejeitado. Neste caso, nem o organizador do evento receberá o 0% de comissão Link, nem o evento será promovido pela FEVER através das suas plataformas.
+
+Pagamentos; processamento da comissão da Fever
+
+
+As vendas feitas através de eventos promovidos num link de comissão de 0% Todas as vendas conseguidas através do link de comissão de 0% não implicarão nenhuma comissão. A Fever terá de depositar ao organizador do evento uma quantia equivalente ao valor nominal de todas as vendas feitas através desses meios (estes, bem como o valor nominal das vendas geradas através de eventos promovidos em qualquer uma das aplicações da Fever, serão considerados, no seu conjunto, como "Taxas de Inscrição"), NET de (i) o nosso direito de descolagem contra quaisquer dívidas ou outros montantes devidos a nós ao abrigo deste Contrato de Comerciante; (II) quaisquer outras deduções autorizadas nos termos deste Contrato Comercial (incluindo, mas não limitado a quaisquer reembolsos a serem feitos aos clientes como resultado do cancelamento e líquido de quaisquer estornos conforme definido abaixo); e (iii) quaisquer reservas estabelecidas conforme estabelecido na Secção 5,1.(b). Esse pagamento será feito no prazo de 15 dias após a conclusão do evento numa conta especificada pelo utilizador e pelos meios escolhidos pela FEVER.
+Vendas feitas através de eventos promovidos em qualquer uma das aplicações da Fever
+Após a conclusão do evento, a Fever irá proceder ao pagamento ao Organizer de um montante equivalente ao valor nominal das vendas feitas através das plataformas Fever líquido de (i) o valor da comissão cobrada (ii) o nosso direito de descolagem contra quaisquer dívidas ou outros montantes devidos a nós ao abrigo do presente Acordo Comercial; (III) quaisquer outras deduções autorizadas nos termos deste Contrato Comercial (incluindo, mas não limitado a quaisquer reembolsos a serem feitos aos clientes como resultado do cancelamento e líquido de quaisquer estornos conforme definido abaixo); e (iv) quaisquer reservas estabelecidas conforme estabelecido na Secção 5,1.(b). Esse pagamento será feito no prazo de 15 dias após a conclusão do evento numa conta especificada pelo utilizador e pelos meios escolhidos pela FEVER.
+
+Os organizadores do evento não precisam de sua própria plataforma de pagamento para utilizar a opção de processamento de pagamento da Fever. Todo o dinheiro será pago na conta bancária indicada nos seus dados de pagamento. Não é da responsabilidade da FEVER verificar os dados bancários, mas é da responsabilidade do organizador do evento garantir que são fornecidos dados bancários precisos. A Fever não aceitará qualquer responsabilidade se os dados bancários incorretos tiverem sido fornecidos pelo organizador do evento ou pelos utilizadores da sua conta e os valores devidos forem pagos na conta bancária errada.
+
+Você concorda que podemos, de tempos em tempos, a nosso exclusivo critério, sem aviso prévio, descolagem contra a sua reserva, descolagem contra quaisquer taxas de inscrição de eventos que você receber, ou ambas, com base no nível de reembolsos, cobranças contestadas, estornos, reclamações de clientes, alegações de fraude, alterações no seu perfil de crédito ou no(s) evento(s) subjacente(s)
+
+Perfil de risco, conduta fraudulenta por si ou por qualquer pessoa que atue em seu nome, ou violações dos Termos de Serviço, incluindo este Contrato Comercial. Podemos exercer tais direitos de descolagem antes de lhe pagarmos qualquer pagamento. Não somos responsáveis perante si por quaisquer reclamações resultantes da nossa decisão de exercer os nossos direitos de descolagem. Também podemos exercer qualquer um dos nossos direitos e recursos nos termos da Secção 6 deste Acordo sobre a recuperação de tais quantias devidas e devidas a nós de você.
+
+Compromisso como Agente
+
+
+O organizador do evento nomeia a FEVER como agente de cobrança de pagamento limitado do organizador apenas para efeitos de cobrança de pagamentos feitos pelos clientes para tais eventos através dos nossos parceiros de processamento de pagamentos. O organizador concorda que um pagamento feito por um cliente à Fever será considerado o mesmo que um pagamento feito por um cliente diretamente ao organizador do evento e o organizador do evento venderá ou fornecerá todos os bens e serviços anunciados ao participante como se o organizador do evento tivesse recebeu diretamente as taxas de inscrição de eventos de tal participante, independentemente de as taxas de inscrição de eventos ainda não terem sido recebidas da Fever. O organizador do evento concorda que, na sua função de agente limitado, a Fever está autorizada a (i) permitir que os clientes transfiram ou atualizem um bilhete e/ou registo (se essas transferências forem permitidas pelo organizador do evento durante o processo de registo do evento); (II) manter, desembolsar e reter os lucros em nome do organizador do evento de acordo com este Contrato do comerciante; (iii) emitir reembolsos aos clientes conforme estabelecido na Seção 5 abaixo; e (iv) gerir os estornos de cartão de crédito conforme estabelecido na subseção 4,5 abaixo. Ao aceitar a nomeação como agente limitado do organizador do evento, a Fever não assume qualquer responsabilidade por quaisquer atos ou omissões do organizador do evento e o organizador do evento compreende que a obrigação da Fever de pagar ao cliente está sujeita e condicionada ao recebimento das taxas de inscrição de eventos associados dos clientes. O cliente também autoriza a FEVER a delegar as suas obrigações ao abrigo do presente Acordo Comercial a algumas das suas entidades afiliadas, dentro e fora dos Estados Unidos, desde que a FEVER permaneça responsável pelo cumprimento das suas obrigações ao abrigo do presente Acordo Comercial por essas entidades afiliadas.
+
+
+
+Chargebacks
+
+
+Um estorno ocorre quando um cliente contesta uma cobrança no seu cartão de crédito/débito com o nosso fornecedor de serviços de comércio. Quando ocorre um estorno, o fornecedor de serviços de comércio irá investigar se a taxa deve ser ou ser reembolsada ao cliente. Quaisquer estornos de cartão de crédito ou outras inversões de transações iniciadas contra a Fever ou as suas afiliadas por qualquer motivo (exceto na medida em que sejam causadas apenas por negligência da Fever ou má conduta intencional) em relação ao evento de um organizador e a todas as associações relacionadas com cartões de crédito, processamento de pagamentos, reapresentação, a penalidade e outras taxas e despesas incorridas pela Fever ou suas afiliadas em conexão com tais estornos serão, em última análise, da responsabilidade do organizador do evento, e o organizador do evento concorda em reembolsar prontamente e totalmente a Fever por tais valores sob demanda. Se tal estorno acontecer antes da transferência dos fundos para o organizador do evento, a FEVER deduzirá esse montante (incluindo a penalização incorrida) do montante total devido pela FEVER ao parceiro.
+
+Como parte da agência de cobrança de pagamentos limitados da Fever, a Fever usará esforços comercialmente razoáveis para gerir a reapresentação de tais estornos e reversões em nome do organizador do evento e do organizador do evento, pelo presente, autorizará a Fever a fazê-lo e concorda com isso Envidar esforços razoáveis para cooperar com a Fever em tal reapresentação. No entanto, a Fever não terá nenhuma obrigação de representar qualquer estorno que acredite, a seu critério, que seja mais provável do que não perder ou que se relacione com uma transação que deva ser reembolsada de acordo com a nossa política de reembolso definida neste Contrato Comercial. Ambas as partes concordam que a perda da Fever de qualquer estorno que tenha sido reapresentado pela Fever não deve de forma alguma limitar a obrigação do organizador do evento de reembolsar a Fever e as suas afiliadas nos termos deste parágrafo.
+
+Quaisquer bilhetes que estejam sujeitos a uma disputa de chargeback bem sucedida serão cancelados.
+
+No caso de o estorno ser processado após a conclusão do evento ou depois de ter transferido os fundos para o organizador do evento, e tal estorno resultar em um reembolso para o cliente, a Fever ainda terá o direito de solicitar o reembolso do valor do estorno e da penalidade incorrida. Nesses casos, a Fever irá deduzir essas quantidades de qualquer valor futuro devido pela Fever ao organizador do evento. No caso de não serem organizados mais eventos pelo organizador do evento, a FEVER terá o direito de solicitar reembolso durante um período de dois (2) meses desde a conclusão do evento.
+
+FALHA DO ORGANIZADOR DO EVENTO EM PAGAR O CHARGEBACK E AS SANÇÕES ASSOCIADAS DENTRO DE QUINZE
+
+(15) DIAS DEPOIS DE RECEBER NOTIFICAÇÃO POR ESCRITO DA Fever RESULTARÁ NA PARTICIPAÇÃO DE INTERESSES E OUTROS CUSTOS ASSOCIADOS, SUJEITOS AO DISPOSTO NOS PONTOS 6,1 E 6,2 E, EM ÚLTIMA ANÁLISE, NA SUSPENSÃO DA CONTA.
+
+
+
+
+
+Responsabilidade do IVA
+
+
+O organizador do evento permanece o único responsável pela contabilidade e pagamento do IVA (ou impostos locais, regionais ou nacionais equivalentes) recolhidos através da venda de bilhetes para a HM Revenue and Customs (ou autoridade fiscal equivalente). A Fever é responsável apenas pelo componente de IVA da taxa de reserva.
+
+
+
+Trocas, cancelamentos e reembolsos
+
+
+
+Reembolsos e cancelamentos
+
+
+Cancelamentos
+Nenhum pagamento será feito ao organizador do evento com relação a qualquer evento que seja cancelado ou com relação ao qual a Fever acredite que há um risco de cancelamento ou não desempenho, a menos que a Fever receba segurança adequada (conforme determinado pela Fever a seu critério)  para    as obrigações  do cliente  sob  este  comerciante Acordo. Além disso, nenhuma taxa de inscrição de eventos para um determinado evento será ganha até que o evento seja concluído com sucesso. Se os pagamentos já foram feitos a um organizador de eventos para um cancelado
+
+o cliente reembolsará imediatamente para um endereço de pagamento
+
+designado pela Fever todos esses pagamentos após o cancelamento de tal evento com o objetivo de efetuar reembolsos se estiverem a ser feitos reembolsos. Você é responsável por cumprir os requisitos da Política de Reembolsos da Fever aqui incorporados. Se você não remeter fundos para a Fever que sejam suficientes para cobrir reembolsos devido a clientes por cancelamento ou não desempenho de um evento, incluindo, mas não limitado a, quaisquer reembolsos obrigatórios sob a Seção 5,1.(d) abaixo, então você reconhece e concorda que o valor não remetido será devido e pagável a nós sob este Contrato Comercial, e sujeito a um direito de descolagem até que você tenha satisfeito o valor na íntegra. Esses valores não remetidos também estão sujeitos às disposições das Seções 5,1(b) e 6 deste Contrato Comercial.
+
+O direito de descolar das reservas e da Fever
+A Fever reserva-se o direito de reter uma certa percentagem das taxas de registo (com essa percentagem a ser determinada pela Fever a seu critério) para financiar uma reserva (i) a qualquer momento, conforme determinarmos, a nosso critério, que seja necessária com base no nível (ou nível esperado) de reembolsos, cobranças contestadas, estornos, reclamações de clientes, alegações de fraude ou alterações no perfil de crédito do Organizer ou no perfil de risco do(s) evento(s) subjacente(s); e (ii) conforme necessário para garantir o cumprimento das suas obrigações ao abrigo dos Termos de Uso e Condições, incluindo este Contrato Comercial, ou para proteger a Fever contra atividades fraudulentas ou erróneas. O direito da Fever de manter uma reserva continuará após o(s) evento(s) aplicável(s) e até que qualquer um (A) o organizador do evento tenha cumprido todas as obrigações decorrentes dos Termos de Serviço e dos períodos aplicáveis para reembolsos, cobranças contestadas, chargebacks e reclamações tenham passado; ou (B) a Fever determina que já não tem risco ou exposição que, de outra forma, seria mitigada pela reserva. Além disso, a reserva está sujeita ao direito de descolagem conforme estabelecido na Secção 4. No caso de o exercício do nosso direito de descolagem não cobrir totalmente o montante dos fundos devidos e devidos a nós ao abrigo destes Termos de Serviço, incluindo este Acordo Comercial, então, essa quantidade de fundos será considerada devida e devida a nós até que você tenha satisfeito o valor na íntegra.
+
+Reembolsos
+As diferentes políticas de troca e reembolso estabelecidas pelos nossos organizadores do evento proíbem a Fever, por defeito, de emitir trocas ou reembolsos após a reserva ser feita. Se um reembolso ou troca for solicitada por um cliente, esse reembolso será totalmente processado pela Fever. No caso de tal reembolso ser finalmente executado, o valor desse reembolso será deduzido do valor devido pela Fever ao organizador do evento, conforme estabelecido na Secção 4.
+
+Os reembolsos pelos quais você é responsável devido ao cancelamento ou não realização de um evento estão sujeitos aos seguintes requisitos de reembolso:
+
+No caso de cancelamento total ou parcial do evento, o organizador do evento concorda em remeter fundos devidos para reembolsos de volta à Fever assim
+Que os reembolsos podem ser processados pela FEVER em nome do organizador do evento;
+
+O organizador do evento concorda que, salvo acordo mútuo por escrito (e-mail aceitável), nenhum reembolso será feito fora de qualquer das plataformas da Fever;
+O organizador do evento deve enviar fundos para a FEVER que sejam suficientes para cobrir os reembolsos devidos aos clientes no prazo de cinco (5) dias a contar do cancelamento do evento;
+
+O organizador concorda em notificar os clientes do cancelamento do evento o mais rapidamente possível e antes da hora de início do evento;
+O organizador reconhece que a Fever se reserva o direito de cobrar ao organizador do evento o custo dos estornos relacionados com o evento cancelado, e esses valores também estão sujeitos ao disposto nas Seções 5,1(b) e 6,1. e 6,2. Deste Acordo Comercial.
+Se o organizador de eventos cancelar apenas parte de um evento de vários dias, então o organizador concorda em submeter à Fever os fundos necessários para um reembolso igual à porção proporcional do valor monetário do preço de compra de um bilhete multi-dia com base no valor monetário correspondente da parte do evento multi-dia que foi cancelado. Por exemplo, se o organizador vender um bilhete de 3 dias para um festival por 150 dólares e cancelar 1 dia do festival, o organizador deve fornecer fundos suficientes para um reembolso de $50 dólares aos clientes para o dia cancelado.
+Se um evento for cancelado pelo organizador do evento dentro de 24 horas antes do início do evento, isso levará ao pagamento pelo colaborador de 30% do valor nominal dos bilhetes vendidos. Este valor será dado aos utilizadores como compensação do cancelamento do evento em tal breve aviso.
+
+O organizador do evento irá fornecer instruções claras e informações de contato aos clientes sobre a Política de Reembolso incluída neste Contrato Comercial para que os clientes possam fazer pedidos de reembolso dentro do prazo (por exemplo: o organizador do evento concorda em informar os clientes que devem pedir devidamente um reembolso antes da segunda-feira seguinte à data indicada ou revista do evento, conforme estabelecido nas secções
+5,2 e 5,3 abaixo).
+
+
+A Fever não permite trocas de bilhetes para outros eventos.
+
+
+Reembolsos obrigatórios
+Não obstante o que precede, o organizador do evento autoriza a FEVER a fazer reembolsos nas seguintes situações: (I) o organizador autorizar especificamente os reembolsos na altura; (ii) a descrição do evento apresentada a um cliente no momento da compra é significativamente diferente do evento real; (III) os clientes não podem participar no evento devido à falha do organizador em planear adequadamente a capacidade, entrada ou saída, ou a presença sujeitará de outra forma o participante a preocupações de segurança; (IV) A Fever acredita, a seu critério, que as ordens específicas devem ser reembolsadas ao abrigo de certas leis, regras ou regulamentos locais, estaduais, provinciais, nacionais ou outras; (V) A Fever acredita, a seu critério, que o pedido de reembolso, se não for concedido, levará a um estorno de que a Fever é mais provável do que não perder; (vi) O organizador não listou uma política de reembolso na página do evento aplicável e a Fever acredita, a seu critério, que um reembolso seria razoável nas circunstâncias; (vii) A Fever acredita, a seu critério, que pedidos específicos são fraudulentos (por exemplo, feitos com cartões de crédito roubados ou não transações de boa-fé); ou (viii) a Fever acredita, a seu critério, que a ordem é uma duplicata. O Organizer também autoriza a Fever a fazer reembolsos de todas e quaisquer ordens (incluindo as relativas A eventos não relacionados) se (A) Fever acreditar, a seu critério, que o Organizer se envolveu em qualquer atividade fraudulenta ou fez quaisquer declarações erradas; (B) A Fever acredita, a seu critério, que existe um risco substancial de não desempenho por parte do Organizer em relação ao evento aplicável ou eventos futuros; (C) A Fever acredita , a seu critério, que é provável receber reclamações, pedidos de reembolso, reversões de transações e/ou estornos em relação a uma quantidade substancial de pedidos; ou (D) A Fever acredita, a seu critério, que o Organizer é um comerciante proibido, usou os Serviços para processar transações proibidas ou para gerir Eventos proibidos ou que a falha em fazer os reembolsos iria de outra forma expor a Fever a responsabilidade legal. Como todas as vendas são feitas pelos organizadores, o organizador concorda em reembolsar prontamente e totalmente a Fever e suas afiliadas, mediante solicitação de reembolsos que a Fever faz de acordo com este Contrato Comercial, exceto na medida em que a necessidade de tais reembolsos é causada por negligência da Fever ou má conduta intencional. A Organizadora reconhece e concorda que os estornos resultarão em perdas para Fever acima do valor da transação subjacente e que, ao refinanciar as transações antes de uma Fever de estorno, está a atenuar tais perdas e os seus danos em relação à violação por parte da Organizadora deste Contrato Comercial. Se não remeter fundos para a FEVER que sejam suficientes para cobrir reembolsos obrigatórios, conforme descrito nas secções 4 e 5, para cancelamento ou não cumprimento de um evento, então, você reconhece e concorda que o montante de tais fundos serão devidos e devidos de você a nós sob os Termos de Serviço, incluindo este Contrato Comercial, até que você tenha satisfeito o valor na totalidade e esses valores também estão sujeitos às disposições das Seções 5,1(b) e 6 deste Contrato Comercial.
+
+
+
+Evento adiado ou mudança de local
+
+
+Se um evento for transferido do local anunciado e/ou a data for alterada, os bilhetes já adquiridos poderão permanecer válidos se o cliente desejar participar no evento revisto. Caso contrário, a Fever reembolsará o preço de compra dos bilhetes de um cliente. Os clientes devem contactar a Fever o mais tardar na segunda-feira seguinte à data revista do evento.
+
+
+
+Mudança significativa no Line-up de eventos
+
+
+Se o artista principal não aparecer ou se o alinhamento ou o conteúdo for substancialmente alterado do anunciado no momento da compra, a Fever reembolsará, a pedido, o preço de compra dos bilhetes de um cliente, incluindo (no caso dos bilhetes vendidos através de qualquer uma das plataformas Fever) a nossa comissão; se essa taxa foi originalmente apresentada como um item separado ou foi incluída dentro do valor nominal indicado do bilhete. Os clientes devem contactar-nos o mais rapidamente possível e o mais tardar na segunda-feira seguinte à data indicada do evento.
+
+
+
+Reembolsos solicitados após a transferência de fundos
+
+
+Os clientes devem entrar em contato com a Fever o mais tardar na segunda-feira seguinte ao evento para solicitar reembolsos devido a um evento adiado, mudança de local ou mudança significativa de evento ou formação. Os reembolsos podem ser processados antes da transferência do rendimento do bilhete para o organizador do evento. A Fever não poderá processar reembolsos depois da segunda-feira seguinte ao evento, a menos que o reembolso seja devido a um cancelamento de evento que tenhamos retido fundos para cobrir todos os reembolsos de bilhetes.
+
+Se os clientes solicitarem o reembolso dos seus bilhetes depois de os fundos terem sido transferidos para o organizador do evento, a responsabilidade final pelo reembolso ainda será do organizador do evento. A Fever continuará a ser responsável pelo processamento dos reembolsos e todas as políticas de reembolso e o direito de descolagem ainda será aplicável conforme estabelecido na Seção 5 deste Contrato Comercial.
+
+EM QUALQUER CASO, A INCAPACIDADE DO ORGANIZADOR DO EVENTO EM PAGAR OS FUNDOS NECESSÁRIOS PARA PROCESSAR OS REEMBOLSOS NO PRAZO DE QUINZE (15) DIAS APÓS TER RECEBIDO AVISO POR ESCRITO DA FEVER RESULTARÁ NA PARTICIPAÇÃO DE INTERESSES E OUTROS CUSTOS ASSOCIADOS, SUJEITOS AO DISPOSTO NA SECÇÃO 6,1 E 6,2 E, EM ÚLTIMA ANÁLISE, NA CONTA QUE ESTÁ A SER SUSPENSA.
+
+
+
+Remédios
+
+
+
+Remédios não exclusivos
+
+
+No caso em que o organizador do evento não pagar à Fever qualquer quantia devida de acordo com este Contrato do comerciante quando devido e após um aviso de pagamento atrasado ser entregue pela FEVER, esse montante suportará juros calculados a partir da data de vencimento até ao pagamento integral a uma taxa igual à menor de (i) um por cento (1%) por mês, compostos mensalmente; e (ii) o montante máximo permitido pelas leis, regras ou regulamentos locais, estaduais, provinciais, nacionais ou outras. No caso de quaisquer quantias serem devidas pelo Organizador à Fever nos termos dos Termos de Serviço (incluindo, sem limitação, este Contrato Comercial), a FEVER poderá, sem limitar os seus outros direitos e recursos e na medida permitida pelas leis locais, estaduais, provinciais, nacionais ou outras, regras ou regulamentos (A) retêm quaisquer quantias devidas ao Organizador do evento, seja para um evento particular ou para qualquer outro evento que o Organizador liste através dos Serviços e usem o valor retido para descolar o valor devido pelo Organizador à Fever; ou (B) enviar uma fatura para o Organizer para tais quantias na medida em que o saldo remanescente do Organizer for insuficiente para cobrir esses custos, caso em que o Organizador deverá pagar A Fever desses montantes faturados no prazo de trinta e (30) dias a contar da data da fatura. Se o pagamento de quaisquer quantias devidas à Fever aqui descrito não for feito pelo Organizador quando devido e depois de receber um aviso de pagamento tardio da Fever, a Fever reserva-se o direito, a seu critério e sem limitar os outros direitos e recursos, de suspender ou encerrar o registo do Organizador para os Serviços (incluindo todas e quaisquer contas que o Organizer possa ter). Além disso, quaisquer montantes não pagos devidos e devidos a Fever estão sujeitos a cobranças de acordo com a Secção 6,2.
+
+
+
+Cobranças e custo de recuperação
+
+
+A Fever reserva-se o direito de prosseguir quaisquer montantes atrasados e não pagos devidos e devidos a Fever para as cobranças, se esses valores não forem pagos no prazo de trinta (30) dias após a data da fatura. Além disso, o Organizer concorda em reembolsar prontamente e totalmente a Fever, mediante a sua demanda por todos os custos e despesas fora do bolso, incluindo, sem limitação, honorários e despesas razoáveis de advogados, incorridas pela Fever na cobrança de quantias devidas passadas ou quaisquer outros valores devidos e devidos pelo Organizer ao abrigo deste Contrato Comercial, os termos de serviço ou de outra forma. O organizador concorda que, se a Fever tiver de procurar cobranças para valores vencidos e o organizador não responder ou pagar na totalidade depois de receber um aviso de cobrança, a FEVER reserva-se o direito de buscar saldos pendentes através de quaisquer meios legais disponíveis, de acordo com os Termos de Serviço.
+
+
+
+Comerciantes proibidos; Eventos proibidos; Transações proibidas
+
+
+Comerciantes proibidos
+
+
+Ao se registar nos Serviços e aceitar este Contrato Comercial, você declara e garante que:
+
+Você não está localizado em, e você não é nacional ou residente de, qualquer país para o qual os Estados Unidos, Reino Unido, União Europeia, Austrália ou Canadá tenham embargado bens e/ou serviços do mesmo tipo que os Serviços ("Países restritos");
+Você não é uma pessoa ou entidade ou está sob o controle ou afiliada a uma pessoa ou entidade que (i) apareça na Lista de Nacionais Especialmente Designada do Gabinete dos EUA de Controle de Ativos Estrangeiros, na Lista de Evadores de Sanções Estrangeiros ou na Lista do Conselho Legislativo Palestino; (II) aparece na Lista de Exclusão Terrorista do Departamento de Estado dos EUA; (iii) aparece na Lista de Pessoas Negadas do Gabinete da Indústria e Segurança; (iv) aparece na Lista Consolidada de Metas publicada pelo Tesouro HM do Reino Unido; (V) consta da Lista Consolidada publicada pelo Departamento de Negócios Estrangeiros e Comércio da A.U. ou (vi) está sujeito a sanções em qualquer outro país; e
+Você não está listado na base de dados de comerciantes rescindidos da MasterCard MATCH ou no arquivo de comerciantes rescindidos da Visa e o seu direito de aceder a cada esquema de cartões e a cada forma alternativa de pagamento não é atualmente revogado ou suspenso.
+Se você se enquadrar em qualquer uma das categorias acima, conforme determinado
+
+Por Fever, a seu critério, você é um "comerciante proibido".
+
+
+
+Eventos proibidos
+
+
+Não pode publicar eventos nos Serviços que:
+
+violar ou facilitar a violação de qualquer lei, regra ou regulamentação local, estadual, provincial, nacional ou outra;
+Seria proibido ao abrigo das Regras do Esquema de Pagamento;
+Ter lugar em países restritos ; e.
+Conter qualquer conteúdo (conforme definido nos Termos de Uso) que viole os Termos e Condições de Uso.
+Qualquer evento que se enquadre em qualquer uma das categorias acima, como
+
+Determinado pela Fever a seu critério, é um "evento proibido".
+
+
+
+Transações proibidas
+
+
+Você declara e garante que não irá submeter para processamento através dos Serviços:
+
+Qualquer transação que viole as regras de pagamento estabelecidas neste Contrato Comercial;
+ qualquer transação que seja de natureza fraudulenta ou criminosa ;
+qualquer transação que constituísse o envio de dinheiro para outra parte que não fosse para a compra de bilhetes de boa fé ou inscrições para , ou solicitação de uma doação para, eventos ou venda de itens relacionados a tais eventos.
+Qualquer transação que se enquadre em qualquer uma das categorias acima descritas, conforme determinado pela FEVER a seu critério, é uma "Transação Proibida".
+
+
+
+7,4. Remédios
+
+
+
+No caso de a Fever descobrir que é um comerciante proibido, que publicou um evento proibido e/ou que tentou processar ou processar uma transação proibida, então a Fever pode tomar qualquer ou todas as seguintes ações, a seu critério, além de todos e quaisquer remédios que a Fever possa ter sob a lei ou em qualquer outro lugar nos Termos de Serviço:
+
+Suspender ou encerrar a sua conta Fever;
+Alterar, editar ou remover qualquer evento proibido ou qualquer parte
+ do mesmo;
+
+ bloquear, reverter ou reembolsar qualquer ou todas as suas transações;
+deter todos e quaisquer fundos associados à sua conta na medida em que for exigido pela lei, regra, regulamentação, julgamento ou ordem local, estadual, provincial, nacional ou outra; e.
+Indicar-lhe, os seus eventos e/ou as suas transações e informações relativas aos mesmos aos nossos Parceiros de Processamento de Pagamentos, o Cartão
+Esquemas e/ou agências de aplicação da lei aplicáveis para outras ações.
+
+
+
+Usos permitidos do site
+
+
+Todas as interações no site devem estar em conformidade com os Termos de Serviço da Fever. Na medida em que a sua conduta, a nosso exclusivo critério, restrinja ou inibe qualquer outro utilizador de usar ou desfrutar de qualquer parte do site, podemos limitar os seus privilégios no site e procurar outros recursos.
+
+As seguintes atividades realizadas por qualquer utilizador do site são proibidas no site e constituem violações expressas dos termos de serviço e deste acordo comercial:
+
+Enviar qualquer conteúdo para o website que: I) contenha informações pessoais dos utilizadores, tais como o seu e-mail e nome ("Informações pessoais"), exceto quando expressamente lhe pedimos que forneça essas informações; ii) viole quaisquer leis nacionais ou internacionais aplicáveis (incluindo, mas não se limitando a, leis de propriedade intelectual, leis relativas aos direitos de privacidade e direitos de publicidade e leis relacionadas com a difamação); iii) oferece downloads não autorizados de qualquer informação protegida por direitos de autor, confidencial ou privada; iv) fazer-se passar por qualquer pessoa ou entidade, ou falsificar ou de outra forma deturpar-se a si ou à sua afiliação com qualquer pessoa ou entidade; v) possuir ou criar um risco de privacidade ou segurança para qualquer pessoa; vi) fazer uso de linguagem ou imagens ofensivas; vii) contém vírus de software ou malware ou qualquer outro código de computador concebido para interromper ou limitar a funcionalidade de qualquer software ou hardware de computador; ou viii) está protegido por direitos de autor, marca comercial ou outro direito de propriedade sem a autorização expressa do proprietário dos direitos de autor, marca comercial ou outro direito de propriedade.
+Tentar fazer ou realmente fazer qualquer um dos seguintes: I) interferir, interromper ou danificar o serviço prestado a qualquer utilizador de qualquer forma, incluindo, sem limitação, enviar um vírus para o website ou tentar sobrecarregar, "inundar", "spam", "bomba de correio" ou "travar" o website; II) examinar ou monitorizar o website para fins de recolha de dados, num esforço para rastrear vendas, utilização, informação de oferta agregada, informação de preços ou dados semelhantes; iii) verificar ou testar a segurança ou configuração do website ou violar medidas de segurança ou autenticação; ou iv) aceder a dados não destinados a si, como iniciar sessão num servidor ou numa conta a que não está autorizado a aceder.
+Usar qualquer um dos seguintes: I) frames, técnicas de enquadramento ou tecnologia de enquadramento para incluir qualquer conteúdo incluído no site sem a nossa autorização expressa por escrito; II) qualquer conteúdo do site, incluindo, sem limitação, "Informações do cliente" (conforme definido na Secção 14,2 dos Termos de Uso), em quaisquer meta tags ou quaisquer outras técnicas ou tecnologias de "texto oculto" sem a nossa autorização expressa por escrito; III) o site ou qualquer um dos seus recursos para solicitar aos consumidores, fornecedores de atividade ou outros terceiros que se tornem utilizadores ou parceiros de outros serviços online ou offline, direta ou indiretamente competitivos ou potencialmente competitivos com Fever, incluindo, sem limitação, a agregação de atividades atuais ou anteriormente oferecidas; ou iv)
+O site ou qualquer um dos seus conteúdos para anunciar ou solicitar qualquer conteúdo com fins comerciais, políticos ou religiosos.
+
+Recolher qualquer um dos seguintes: I) Informações pessoais, "Informações do cliente" (conforme definido na Secção 14,2 dos Termos de Uso); ou ii) conteúdo do site, incluindo, mas não limitado a, informações relacionadas com atividades atuais ou anteriormente oferecidas; com o objetivo de apresentar tal conteúdo aos consumidores de qualquer forma que desvie o tráfego do site sem a nossa autorização expressa por escrito.
+Participar em qualquer um dos seguintes: I) adulterar ou interferir com o bom funcionamento de qualquer parte, página ou área do site ou quaisquer funções ou serviços fornecidos pela Fever; II) violar as restrições em qualquer cabeçalho de exclusão de robôs no site ou contornar ou contornar outras medidas empregadas para impedir ou limitar o acesso ao site; iii) revender ou reutilizar o seu acesso ao site ou quaisquer compras feitas através do site; IV) usar qualquer conta da Fever para revenda ou para fins especulativos, falsos, fraudulentos ou qualquer outro propósito não expressamente permitido por estes Termos de Uso; v) tomar qualquer ação que exija excessivamente os nossos serviços ou que imponha, ou possa impor, uma carga irrazoável ou desproporcionadamente grande nos nossos servidores ou outra parte da nossa infraestrutura (conforme determinado a nosso exclusivo critério); VI) aceder, monitorizar ou copiar qualquer conteúdo do website usando qualquer "robô", "aranha", "raspador" ou outros meios automatizados ou qualquer processo manual para qualquer fim sem a nossa autorização expressa por escrito; vii) agregar quaisquer atividades atuais ou anteriormente oferecidas ou outro conteúdo ou informação do website (seja usando links ou outros meios técnicos ou registos físicos associados a compras feitas através do website) com material de outros websites e publicando-o nem no nosso website nem num website secundário sem a nossa autorização expressa por escrito; VIII) vinculação profunda a qualquer parte do site (incluindo, sem limitação, o caminho de compra de qualquer bilhete) sem a nossa autorização expressa por escrito; IX) hiperlink para o site a partir de qualquer outro site sem o nosso consentimento por escrito; ou x) agir ilegalmente ou maliciosamente contra os interesses comerciais ou a reputação da FEVER e/ou das suas subsidiárias ou afiliadas, incluindo, sem limitação, a Fever Labs, Inc., os nossos fornecedores de atividade ou os nossos serviços.
+
+
+Dados do cliente
+
+
+No que respeita a quaisquer dados pessoais (tal como definidos no Regulamento (UE) 2016/679 do Parlamento Europeu e do Conselho, de 27 de abril de 2016, relativo à proteção das pessoas singulares no que diz respeito ao tratamento de dados pessoais e à livre circulação desses dados, e que revoga a diretiva 95/46/CE), o organizador do evento é responsável por garantir que cumpre as leis aplicáveis e continua a cumprir quaisquer leis futuras que possam alterar ou substituir o regime existente e quaisquer notas de orientação ou diretrizes emitidas pela autoridade de proteção de dados relevante.
+
+
+Isenção de responsabilidade
+
+
+O site e o seu conteúdo são fornecidos "tal como estão" e "tal como estão disponíveis". A Fever isenta-se de todas as garantias, expressas ou implícitas, incluindo também quaisquer garantias implícitas de comercialização e adequação a um propósito específico.
+
+A Fever não promete que o site seja livre de erros, sem interrupções, ou que irá fornecer resultados específicos do uso do site ou de qualquer conteúdo, pesquisa ou link nele.
+
+A Fever não pode garantir que os ficheiros que descarregar a partir do website estejam livres de vírus, contaminação ou funcionalidades destrutivas.
+
+A Fever não será responsável por quaisquer danos de qualquer tipo decorrentes do uso deste website, incluindo, sem limitação, danos diretos, indiretos, incidentais, punitivos e consequentes. A Fever não garante nenhum resultado específico do uso deste site ou do uso do serviço Fever.
+
+
+
+ Limitação de responsabilidade
+
+
+Embora nos esforcemos para garantir que o website está sempre totalmente operacional, nessas ocasiões em que haja interrupções no serviço devido a manutenção essencial, atualizações do sistema, interrupções do serviço de internet ou quaisquer outros fatores além do nosso controle, a Fever não será responsável por quaisquer danos indiretos, consequentes, exemplares, incidentais, danos especiais ou punitivos, ou por lucros cessantes, receitas ou oportunidades de negócio, mesmo que a Fever tenha sido avisada da possibilidade de tais danos.
+
+Em nenhum caso a Fever será responsável por qualquer perda indireta ou consequente ou qualquer perda (incorrida direta ou indiretamente) de lucro, negócio, receita, data, goodwill ou reputação.
+
+A Fever isenta-se de toda e qualquer responsabilidade pelos atos, omissões e
+
+Conduta de quaisquer utilizadores de terceiros, utilizadores da Fever, anunciantes e/ou patrocinadores no website, em relação ao serviço da Fever ou de outra forma relacionada com a sua utilização do website e/ou do serviço da Fever. A Fever não é responsável pelos produtos, serviços, ações ou falha em agir de qualquer local, artista, promotor ou outro terceiro em relação ou referência no website.
+
+Não obstante o que precede, nada no Contrato Comercial
+
+Devem ser consideradas para limitar ou excluir qualquer responsabilidade que a Fever possa ter por (i) morte ou danos pessoais resultantes de negligência por Fever; (ii) falsidade ideológica; ou (iii) qualquer responsabilidade que não possa ser excluída ou restrita por lei.
+
+
+
+Indemnização
+
+
+O utilizador deverá indemnizar a Fever, defender e isentar a Fever e Fever, empresas associadas ou relacionadas e as suas respetivas joint ventures, sucessores, cessionários, diretores, administradores, os empregados e os agentes devem manter cada um deles total e eficazmente indemnizado contra todas e quaisquer perdas, impostas, incorridas ou contra eles decorrentes de:
+
+Qualquer violação do Contrato ou violação da garantia pelo organizador do evento dos atos ou omissões do organizador do evento, dos seus funcionários, subcontratados ou agentes;
+Qualquer evento ou local (exceto e na medida em que quaisquer perdas resultem diretamente da violação deste Contrato por Fever ou negligência da nossa parte);
+qualquer violação das leis de direitos de autor ou de privacidade ou de qualquer outra lei aplicável;
+Qualquer publicidade, marketing ou promoção (exceto qualquer material produzido pela Fever), incluindo, sem limitação, a produção e colocação de cartazes de mosca.
+
+
+Marcas comerciais
+
+
+Fever, o website e o design são marcas registadas da Fever Labs, Inc. Todos os direitos reservados.
+
+
+
+Política de privacidade
+
+
+A Fever valoriza muito a privacidade dos seus utilizadores. Para mais informações sobre a proteção de dados pessoais, por favor, consulte a Política de Privacidade da Fever disponível aqui
+
+
+
+ Informações de contacto para o serviço de apoio ao cliente:
+
+
+E-mail:
+
+hello@feverup.com,         hola@feverup.com,         ola@feverup.com, salut@feverup.com
+
+
+Aviso Legal: Este documento é uma tradução do site https://feverup.com/legal/terms_pt.html e é fornecido apenas para fins de referência. Em caso de inconsistências ou discrepâncias entre as versões em inglês e português, a versão em inglês prevalecerá.
+
+        
+
+
+
+ 

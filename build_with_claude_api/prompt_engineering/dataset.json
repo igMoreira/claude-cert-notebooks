@@ -1,0 +1,50 @@
+[
+  {
+    "prompt_inputs": {
+      "content": "This study presents a novel approach to drug discovery by integrating computational molecular docking with experimental biochemistry. We employed machine learning algorithms to predict protein-ligand binding affinities, reducing screening time by 60%. Our methodology combines quantum chemistry calculations for electronic structure analysis with high-throughput chromatography to validate predicted compounds. We synthesized five novel inhibitor candidates targeting the SARS-CoV-2 main protease, analyzing their binding kinetics through surface plasmon resonance spectroscopy. The computational models achieved 92% accuracy when validated against experimental IC50 values. Our interdisciplinary framework demonstrates how artificial intelligence can accelerate traditional medicinal chemistry workflows, bridging structural biology, organic synthesis, and data science methodologies."
+    },
+    "solution_criteria": [
+      "Identifies topics from all three research domains: biology (protein-ligand interactions, drug discovery, enzyme inhibition), chemistry (molecular docking, quantum chemistry, organic synthesis), and computational methods (machine learning, algorithms, data validation)",
+      "Distinguishes between main topics and supporting technical details",
+      "Captures interdisciplinary aspects that span multiple fields"
+    ],
+    "task_description": "Extract the topics from a scholar paper text.",
+    "scenario": "Testing with an interdisciplinary paper abstract containing mixed topics from biology, chemistry, and computational methods to verify accurate identification of multiple distinct research areas"
+  },
+  {
+    "prompt_inputs": {
+      "content": "The Renaissance witnessed a profound transformation in how artists conceived of human representation. Through the meticulous study of anatomical proportions and the principles of linear perspective, painters and sculptors sought to capture not merely the physical likeness of their subjects, but the psychological depth of individual character. This period saw the emergence of the portrait as a vehicle for exploring questions of identity and social status, while simultaneously, the revival of classical texts prompted intellectual inquiry into the nature of virtue, beauty, and the relationship between the material and spiritual worlds. The patronage system that flourished in Florence and Rome fundamentally shaped artistic production, creating networks of exchange between merchants, clergy, and humanist scholars. Simultaneously, technological innovations in pigment production and the refinement of oil painting techniques enabled artists to achieve unprecedented levels of luminosity and atmospheric perspective, influencing how subsequent generations perceived and depicted the natural world."
+    },
+    "solution_criteria": [
+      "Identifies implicit topics embedded within narrative prose without explicit keywords (e.g., artistic techniques, patronage systems, intellectual movements, technological innovation)",
+      "Extracts topics contextually derived from thematic discussions rather than explicitly labeled keywords",
+      "Recognizes interconnected topics across multiple domains (art history, technology, economics, philosophy)"
+    ],
+    "task_description": "Extract the topics from a scholar paper text.",
+    "scenario": "Testing with a humanities-focused paper containing implicit topics hidden within narrative prose rather than explicitly stated keywords to assess topic extraction from contextual language"
+  },
+  {
+    "prompt_inputs": {
+      "content": "This paper presents a novel approach to mitigating adversarial perturbations in convolutional neural networks (CNNs) through adversarial training with FGSM and PGD attacks. We employ ResNet-50 architecture with batch normalization layers and implement certified defenses using randomized smoothing techniques. Our methodology incorporates differential privacy (DP) mechanisms with \u03b5-\u03b4 bounds to quantify robustness guarantees. We evaluate performance metrics including clean accuracy, robust accuracy under L\u221e perturbations, and certified radius bounds. Comparative analysis with existing defense mechanisms such as TRADES and MART demonstrates superior performance on CIFAR-10 and ImageNet datasets. Additionally, we explore the trade-off between model interpretability and adversarial robustness using attention mechanisms and gradient-based attribution methods (Grad-CAM). Our findings suggest that incorporating knowledge distillation from robust teacher models significantly improves generalization capabilities while maintaining computational efficiency on edge devices."
+    },
+    "solution_criteria": [
+      "Identifies all major technical topics including adversarial training, defense mechanisms, privacy techniques, and model evaluation approaches",
+      "Correctly recognizes domain-specific acronyms and jargon (FGSM, PGD, TRADES, MART, DP, L\u221e, Grad-CAM) as topic indicators",
+      "Distinguishes between architectural components (ResNet-50, CNNs), techniques (randomized smoothing, knowledge distillation), and evaluation methods (certified radius bounds, clean/robust accuracy)"
+    ],
+    "task_description": "Extract the topics from a scholar paper text.",
+    "scenario": "Testing with a highly specialized technical paper using domain-specific jargon and acronyms to evaluate whether the prompt correctly identifies topics despite unfamiliar terminology"
+  },
+  {
+    "prompt_inputs": {
+      "content": "This paper investigates machine learning approaches for natural language processing tasks. We employ deep neural networks and artificial neural networks to improve text classification performance. Our methodology utilizes transformer architectures and neural language models for semantic analysis. We compare supervised learning and machine learning techniques across multiple datasets. The study demonstrates that deep learning methods, particularly neural network-based approaches, outperform traditional NLP methods. We also explore transfer learning and pre-trained language models to enhance model generalization. Results show that neural architectures consistently achieve state-of-the-art performance in natural language understanding and text processing benchmarks."
+    },
+    "solution_criteria": [
+      "Identifies all distinct topics present in the abstract",
+      "Deduplicates or groups semantically overlapping concepts (e.g., 'machine learning', 'deep learning', 'neural networks', 'neural network-based approaches' as related variants)",
+      "Presents topics in a clear, non-redundant format"
+    ],
+    "task_description": "Extract the topics from a scholar paper text.",
+    "scenario": "Testing with a paper abstract that has redundant or overlapping topic concepts to assess whether the prompt deduplicates related topics or lists them separately"
+  }
+]

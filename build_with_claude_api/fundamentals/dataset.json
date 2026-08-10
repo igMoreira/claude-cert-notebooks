@@ -1,0 +1,17 @@
+[
+  {
+    "task": "Extract all S3 bucket names from AWS CloudFormation template",
+    "type": "Regex",
+    "solution_criteria": "Must match S3 bucket logical IDs in CloudFormation YAML/JSON format. Should correctly identify buckets defined with 'AWS::S3::Bucket' resource type. Must avoid false positives from bucket references in other contexts. Solution should be simple single regex pattern."
+  },
+  {
+    "task": "Parse AWS CloudWatch Logs JSON and extract error messages with timestamps",
+    "type": "Python",
+    "solution_criteria": "Function should accept CloudWatch Logs JSON payload and return list of tuples containing (timestamp, error_message). Must handle nested JSON structure where logs are in 'logEvents' array. Should be efficient for logs with 100+ entries. Code should be under 15 lines and maintainable."
+  },
+  {
+    "task": "Generate AWS IAM policy JSON that allows read-only access to specific S3 bucket",
+    "type": "JSON",
+    "solution_criteria": "Must produce valid IAM policy JSON with proper structure (Version, Statement, Effect, Action, Resource). Should grant s3:GetObject and s3:ListBucket permissions only. Must specify exact bucket ARN and object ARN paths. Policy should follow AWS best practices for least privilege."
+  }
+]
